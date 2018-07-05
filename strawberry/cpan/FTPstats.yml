@@ -1,0 +1,13 @@
+---
+history:
+  - attempts:
+      - method: dleasy
+        start: 1228627428.5915
+        url: &1 !!perl/hash:CPAN::URL
+          FROM: USER
+          TEXT: http://cpan.strawberryperl.com/
+    end: 1228627429.66963
+    file: authors/id/S/SR/SREZIC/CHECKSUMS
+    filesize: 69432
+    start: 1228627428.35713
+    thesiteurl: *1

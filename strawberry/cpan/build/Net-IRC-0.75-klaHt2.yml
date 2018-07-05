@@ -1,0 +1,66 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Net::IRC
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Net::IRC: 1
+    Net::IRC::Connection: 1
+    Net::IRC::DCC: 1
+    Net::IRC::Event: 1
+    Net::IRC::EventQueue: 1
+    Net::IRC::EventQueue::Entry: 1
+  ID: J/JM/JMUHLICH/Net-IRC-0.75.tar.gz
+  RO:
+    CPAN_USERID: JMUHLICH
+    CPAN_VERSION: 0.75
+    DESCRIPTION: Internet Relay Chat interface
+  archived: tar
+  build_dir: C:\strawberry\cpan\build\Net-IRC-0.75-klaHt2
+  incommandcolor: 1
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1227591891
+  localfile: C:\strawberry\cpan\sources\authors\id\J\JM\JMUHLICH\Net-IRC-0.75.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1227591888
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1227591890
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires: ~
+    requires:
+      Carp: 0
+      IO::File: 0
+      IO::Select: 0
+      IO::Socket: 0
+      Socket: 0
+      Sys::Hostname: 0
+  prereq_pm_detected: 1
+  reqtype: c
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1227591882
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1227591883
+perl:
+  $^X: C:\strawberry\perl\bin\perl.exe
+  mtime_$^X: 1224452430
+  mtime_dll: 0
+  sitearchexp: C:\strawberry\perl\site\lib
+time: 1227591891

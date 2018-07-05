@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__Entry
+  _boot_Tk__Entry = boot_Tk__Entry
+  

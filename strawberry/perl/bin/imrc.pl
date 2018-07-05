@@ -1,0 +1,371 @@
+use Tk;
+use strict;
+use Socket;
+use Win32::FileOp qw(ShellExecute);
+
+my ($bits1, $myline, $sel, $ircentry, $repeat, $theticket, $server, $port, $channel, $user, $filterstring, $xpos, $ypos, $quitstring, $editquit, $viewquit);
+my $isjoined = "0";
+my $pollTime = "0.5";
+my $imconnected = 0;
+my $mytextvariable;
+my $ver = "1.0";
+my $configfile = "imrc.conf";
+my $mainlogfile = "mainlog.txt";
+my $filterlogfile = "filterlog.txt";
+
+
+if (-e $configfile) {
+	require $configfile;
+	use vars qw/$myuser $myserver $myport $mychannel $myfilterstring $myxpos $myypos $myquitstring $myviewquit $myeditquit/;
+	$user = $myuser;
+	$server = $myserver;
+	$port = $myport;
+	$channel = $mychannel;
+	$filterstring = $myfilterstring;
+	$xpos = $myxpos;
+	$ypos = $myypos;
+	$viewquit = $myviewquit;
+	$editquit = $myeditquit;
+	$quitstring = $myquitstring;
+} else {
+	$user = "d2-jhamilton";
+	$server = "irc.theplanet.com";
+	$port = "6667";
+	$channel = "#pr";
+	$filterstring = "d2|dllstx2|maint|question";
+	$xpos = "100";
+	$ypos = "100";
+	$quitstring = "IMRC Version $ver";
+	$editquit = "1";
+	$viewquit = "0";
+	&buildconfigfile();
+}
+
+my $MW = Tk::MainWindow->new;
+$MW->title("IMRC Version $ver");
+$MW->OnDestroy( \&ircdisconnect);
+my $myicon = $MW->Photo(-file => "planetlogo.gif", -format => 'gif');
+$MW->Icon(-image => $myicon);
+$MW->configure(-menu => my $menubar = $MW->Menu);
+
+$menubar->cascade(qw/-label IRC -tearoff 0 -underline 0 -menuitems/ =>
+	[
+	[command  => '~Connect', -command => [ \&ircconnect]],
+	[command  => '~Disconnect', -command => [\&ircdisconnect]]
+	]);
+$menubar->cascade(qw/-label View -tearoff 0 -underline 0 -menuitems/ =>
+	[
+	[command => '~Configuration', -command => [ \&configpopup]],
+	[command => 'View IRC ~Mainlog', -command => sub {
+		ShellExecute("$mainlogfile");
+		}],
+	[command => 'View IRC ~Filterlog', -command => sub {
+		ShellExecute("$filterlogfile");
+		}]
+	]);
+
+my $lf1 = $MW->Label(-text => 'IRC filtered')->pack();
+my $ircfilter = $MW->Scrolled('Listbox',
+	-scrollbars	=> 'ose',
+
+)->pack(qw/-expand 1 -fill both/);
+$ircfilter->activate(0);
+
+my $lf2 = $MW->Label(-text => 'IRC RAW')->pack();
+my $ircmain = $MW->Scrolled('Listbox',
+	-scrollbars	=> 'ose',
+
+)->pack(qw/-fill both -expand 1/);
+$ircmain->activate(0);
+my $e1 = $MW->Entry(
+	-relief => 'sunken',
+        -width => '60',
+)->pack(qw/-expand 1 -fill x/);
+
+$e1->bind("<Return>", \&posttoirc);
+$ircmain->bind("<Double-Button-1>", sub {
+	my $cursorselection = $ircmain->curselection;
+	my $blah = $ircmain->get($cursorselection);
+	if ($blah =~ /(\d{7,}plnt)/i) {
+		popupticket($1);
+	}
+});
+$ircfilter->bind("<Double-Button-1>", sub {
+	my $cursorselection = $ircfilter->curselection;
+	my $blah = $ircfilter->get($cursorselection);
+	if ($blah =~ /(\d{7,}plnt)/i) {
+		popupticket($1);
+	}
+});
+
+if ($ARGV[0] eq "-autoconnect" ) {
+	ircconnect();
+}
+
+sub posttoirc {
+	if ($imconnected == "1") {	
+		my $entry = $e1->get;
+		$entry = "privmsg $channel $entry\n";
+		print Socket_Handle $entry;
+	}
+	$e1->delete(0,'end');
+}
+
+sub ircconnect {
+	if ($imconnected == "0") {
+		$imconnected = "1";
+		my $proto = getprotobyname('tcp');
+		my $iaddr = inet_aton($server);
+		my $paddr = sockaddr_in($port, $iaddr);
+		socket(Socket_Handle, PF_INET, SOCK_STREAM, $proto) or die "socket: $!";
+		connect(Socket_Handle, $paddr) or die "connect: $!";
+		select(Socket_Handle); $| = 1; select(STDOUT);
+		my $thetime = localtime;
+		open(MAINLOGFILE, ">>$mainlogfile");
+		print MAINLOGFILE "\n\n===================== Logging started at $thetime =====================\n\n";
+		open(FILTERLOGFILE, ">>$filterlogfile");
+		print FILTERLOGFILE "\n\n===================== Logging started at $thetime =====================\n\n";
+		$repeat = $MW->repeat(25 => \&ircpoller);
+	}
+}
+
+
+sub popupticket {
+	my $ticket = $_[0];
+	my $top = $MW->Toplevel;
+	$top->resizable('0','0');
+	my $geometry = "120x50+$xpos+$ypos";
+	$top->Icon(-image => $myicon);
+	$top->title($ticket);
+	$top->geometry($geometry);
+	$top->attributes(-topmost => 1);
+	$top->Label(-text => 'Ticket')->grid(qw/-column 0 -row 0/);
+	my $ticketlabel = $top->Entry(
+		-relief => 'sunken',
+	        -width => '10',
+		-state => 'readonly',
+		-text => $_[0] 
+	)->grid(qw/-column 0 -row 1/);
+	$top->Button(
+		-text => 'View',
+		-command => sub {
+			ShellExecute("https://inside.theplanet.com/orbit_ticket/ticket_view.html?ticket_id=$ticket");
+			if ($viewquit == "1") {
+				destroy $top;
+			}
+		},
+	)->grid(qw/-column 1 -row 0/);
+	$top->Button(
+		-text => 'Grab',
+		-command => sub {
+			ShellExecute("https://inside.theplanet.com/orbit_ticket/ticket_edit.html?ticket_id=$ticket");
+			if ($editquit == "1") {
+				destroy $top;
+			}
+		},
+	)->grid(qw/-column 1 -row 1/);
+}
+
+sub configpopup {
+	my $top = $MW->Toplevel;
+	$top->resizable('0','0');
+	$top->Icon(-image => $myicon);
+	$top->title('Configuration');
+	$top->Label(-text => 'User')->grid(qw/-column 0 -row 0/);
+	my $userentry = $top->Entry(
+		-relief => 'sunken',
+		-width => '30',
+		-textvariable => $user,
+	)->grid(qw/-column 1 -row 0 -columnspan 3/);
+	$top->Label(-text => 'Server')->grid(qw/-column 0 -row 1/);
+	my $serverentry = $top->Entry(
+		-relief => 'sunken',
+		-width => '30',
+		-textvariable => $server,
+	)->grid(qw/-column 1 -row 1 -columnspan 3/);
+	$top->Label(-text => 'Port')->grid(qw/-column 0 -row 2/);
+	my $portentry = $top->Entry(
+		-relief => 'sunken',
+		-width => '30',
+		-textvariable => $port,
+	)->grid(qw/-column 1 -row 2 -columnspan 3/);
+	$top->Label(-text => 'Channel')->grid(qw/-column 0 -row 3/);
+	my $channelentry = $top->Entry(
+		-relief => 'sunken',
+		-width => '30',
+		-textvariable => $channel,
+	)->grid(qw/-column 1 -row 3 -columnspan 3/);
+	$top->Label(-text => 'Filtering')->grid(qw/-column 0 -row 4/);
+	my $filterentry = $top->Entry(
+		-relief => 'sunken',
+		-width => '30',
+		-textvariable => $filterstring,
+	)->grid(qw/-column 1 -row 4 -columnspan 3/);
+	$top->Label(-text => 'Popup X/Y coordinates')->grid(qw/-column 0 -row 5/);
+	my $xposentry = $top->Entry(
+		-relief => 'sunken',
+		-width => '10',
+		-textvariable => $xpos,
+	)->grid(qw/-column 1 -row 5/);
+	my $yposentry = $top->Entry(
+		-relief => 'sunken',
+		-width => '10',
+		-textvariable => $ypos,
+	)->grid(qw/-column 2 -row 5/);
+	$top->Label(-text => 'Quit String:')->grid(qw/-column 0 -row 6/);
+
+	my $quitstringentry = $top->Entry(
+		-relief => 'sunken',
+		-width => '30',
+		-textvariable => $quitstring
+	)->grid(qw/-column 1 -row 6 -columnspan 3/);
+	$top->Label(-text => 'Close popup on:')->grid(qw/-column 0 -row 7/);
+	$top->Checkbutton(
+		-text => 'View ticket',
+		-variable => \$viewquit,
+	)->grid(qw/-column 1 -row 7/);
+	$top->Checkbutton(
+		-text => 'Edit ticket',
+		-variable => \$editquit,
+	)->grid(qw/-column 2 -row 7/);
+	$top->Button(
+		-text => 'Check',
+		-command => sub {
+			$xpos = $xposentry->get;
+			$ypos = $yposentry->get;
+			popupticket('test');
+		},
+	)->grid(qw/-column 3 -row 5/);
+	$top->Button(
+		-text => 'Ok',
+		-command => sub {
+			$user = $userentry->get;
+			$server = $serverentry->get;
+			$port = $portentry->get;
+			$channel = $channelentry->get;
+			$filterstring = $filterentry->get;
+			$xpos = $xposentry->get;
+			$ypos = $yposentry->get;
+			$quitstring = $quitstringentry->get;
+			buildconfigfile();
+			destroy $top;
+		},
+	)->grid(qw/-column 0 -columnspan 3 -row 8/);
+	$top->Button(
+		-text => 'Apply',
+		-command => sub {
+			$user = $userentry->get;
+			$server = $serverentry->get;
+			$port = $portentry->get;
+			$channel = $channelentry->get;
+			$filterstring = $filterentry->get;
+			$xpos = $xposentry->get;
+			$ypos = $yposentry->get;
+			$quitstring = $quitstringentry->get;
+			buildconfigfile();
+		},
+	)->grid(qw/-column 2 -row 8/);
+	$top->Button(
+		-text => 'Cancel',
+		-command => sub {
+			destroy $top;
+		}
+	)->grid(qw/-column 3 -row 8/);
+
+}
+sub ircpoller {
+	#this polling shit is necessary since you can't simultaneosly read and write to a socket in windows
+	vec($bits1,fileno(Socket_Handle),1)=1;
+	my $rc=select(my $rout1=$bits1,my $wout1=$bits1,my $eout1=$bits1,$pollTime); # poll
+	if ( vec($rout1,fileno(Socket_Handle),1) ) {
+		$myline = <Socket_Handle>;
+		if ($myline =~ /NOTICE\sAUTH/) {
+			sleep 1;
+			print Socket_Handle "USER $user 0 *  : Perl Client\n";
+			print Socket_Handle "NICK $user\n";
+		} 
+		if ($myline =~ /Nickname\sis\salready\sin\suse/) {
+			sleep 1;
+			my $user1 = "$user\_";
+			print Socket_Handle "USER $user1 0 *  : Perl Client\n";
+			print Socket_Handle "NICK $user1\n";
+		}
+		if ($myline =~ /PING/) {
+			$myline =~ s/PING/PONG/;
+	                print Socket_Handle $myline;
+	                if ($isjoined == "0") {
+				sleep 1;
+				print Socket_Handle "join $channel\n";
+	                        $isjoined = "1";
+	                }
+		} else {
+			chop($myline);chop($myline);
+			if ($myline =~ /PRIVMSG/) {
+				my $time = mytime();
+				$myline =~ s/\d{0,2},\d{0,2}//g;
+				my @thisline = split /:/, $myline;
+		                my @thisline2 = split /!/, $thisline[1];
+				my $ircline1 = "\<$thisline2[0]\>: $time";
+				my $ircline2 = "  $thisline[2]";				
+				print MAINLOGFILE "$ircline1 \n $ircline2\n";
+				$ircmain->insert('end', $ircline1); 
+				$ircmain->insert('end', $ircline2);
+				$ircmain->see('end');
+				if (($thisline[2] =~ /$filterstring/i) && ($thisline[2] =~ /\d{7,}plnt/i)) {
+					$ircfilter->insert('end', $ircline1);
+					$ircfilter->insert('end', $ircline2);
+					$ircfilter->see('end');
+					my $theticket1 = $thisline[2];
+					print FILTERLOGFILE "$ircline1 \n $ircline2\n";
+					if ($theticket1 =~ /(\d{7,}plnt)/i) {
+						$theticket1 =  $1;
+					}
+					popupticket($theticket1);
+				}
+			} else {
+				$ircmain->insert('end', $myline);
+				$ircmain->see('end');
+			}
+	        }
+	}
+}
+sub buildconfigfile() {
+	open(MYCONFIGFILE, ">$configfile");
+	print MYCONFIGFILE "\$myuser = \"$user\";\n";
+	print MYCONFIGFILE "\$myserver = \"$server\";\n";
+	print MYCONFIGFILE "\$myport = \"$port\";\n";
+	print MYCONFIGFILE "\$mychannel = \"$channel\";\n";
+	print MYCONFIGFILE "\$myfilterstring = \"$filterstring\";\n";
+	print MYCONFIGFILE "\$myxpos = \"$xpos\";\n";
+	print MYCONFIGFILE "\$myypos = \"$ypos\";\n";
+	print MYCONFIGFILE "\$myquitstring = \"$quitstring\";\n";
+	print MYCONFIGFILE "\$myeditquit = \"$editquit\";\n";
+	print MYCONFIGFILE "\$myviewquit = \"$viewquit\";\n";
+	print MYCONFIGFILE "return 1;";
+	print MYCONFIGFILE "#Do not edit this file, if you do and it breaks just rename/delete it\n";
+	close(MYCONFIGFILE);
+}
+ 
+sub ircdisconnect {
+	if ($imconnected == "1") {
+		$repeat->cancel();
+		print Socket_Handle "quit :$myquitstring\n";
+		sleep 1;
+		close (Socket_Handle);
+		my $thetime = localtime;
+		print MAINLOGFILE "\n\n===================== Logging Ended at $thetime =====================\n\n";
+		close (MAINLOGFILE);
+		print FILTERLOGFILE "\n\n===================== Logging Ended at $thetime =====================\n\n";
+		close (FILTERLOGFILE);
+		$imconnected ="0";
+		$isjoined = "0";
+	}		
+}
+sub mytime {
+	my $now = localtime;
+	if ($now =~ /(\d\d:\d\d:\d\d)/) {
+		$now = $1;
+	}
+	return $now;
+}
+MainLoop;

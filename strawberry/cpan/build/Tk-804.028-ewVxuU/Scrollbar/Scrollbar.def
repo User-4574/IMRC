@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__Scrollbar
+  _boot_Tk__Scrollbar = boot_Tk__Scrollbar
+  

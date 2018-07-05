@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__NBFrame
+  _boot_Tk__NBFrame = boot_Tk__NBFrame
+  

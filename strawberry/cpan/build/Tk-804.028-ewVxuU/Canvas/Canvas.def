@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__Canvas
+  _boot_Tk__Canvas = boot_Tk__Canvas
+  

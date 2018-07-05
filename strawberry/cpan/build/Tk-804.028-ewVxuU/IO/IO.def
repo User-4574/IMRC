@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__IO
+  _boot_Tk__IO = boot_Tk__IO
+  

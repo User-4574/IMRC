@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__Scale
+  _boot_Tk__Scale = boot_Tk__Scale
+  

@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__Xlib
+  _boot_Tk__Xlib = boot_Tk__Xlib
+  

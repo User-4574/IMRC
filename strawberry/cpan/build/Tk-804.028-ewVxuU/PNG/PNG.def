@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__PNG
+  _boot_Tk__PNG = boot_Tk__PNG
+  

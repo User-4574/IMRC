@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__Pixmap
+  _boot_Tk__Pixmap = boot_Tk__Pixmap
+  

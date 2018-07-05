@@ -1,0 +1,1335 @@
+Reading information from C:\strawberry\cpan\sources\authors\01mailrc.txt.gz
+Reading information from C:\strawberry\cpan\sources\modules\03modlist.data.gz
+Reading information from C:\strawberry\cpan\sources\modules\02packages.details.txt.gz
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/ValueTree.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/Simple.pm.gz: skipping
+No dist_name/version/cpanid for I/IL/ILYAZ/os2/582+/perl_mlb.zip: skipping
+No dist_name/version/cpanid for K/KD/KDOULEPOV/Convert-Cyr.tar.gz: skipping
+No dist_name/version/cpanid for H/HU/HUGHES/manish-db.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/PwTree.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/RevHash.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/ADVLABS/net/TCP/Client.pm.gz: skipping
+No dist_name/version/cpanid for S/SR/SRIRAM/examples.tar.gz: skipping
+No dist_name/version/cpanid for J/JA/JACKS/Prolog-alpha.tar.gz: skipping
+No dist_name/version/cpanid for J/JP/JPDURRIOS/FServer.tar.gz: skipping
+No dist_name/version/cpanid for H/HA/HAKANARDO/Math-Expr-LATEST.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/ADVLABS/timeouts/TimeOut.pm.gz: skipping
+No dist_name/version/cpanid for C/CC/CCLOUTIER/Notes/Notes.zip: skipping
+No dist_name/version/cpanid for A/AD/ADIRAJ/CGI-Widget-FilloutForm.tar.gz: skipping
+No dist_name/version/cpanid for C/CY/CYGA/Acme-URM.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/BinTree.pm.gz: skipping
+No dist_name/version/cpanid for J/JC/JCTEBBAL/rms.zip: skipping
+No dist_name/version/cpanid for J/JE/JEFF/CGISession.tar.gz: skipping
+No dist_name/version/cpanid for C/CH/CHI/link_NCBI.zip: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/queues/strpris/Queue.pm.gz: skipping
+No dist_name/version/cpanid for R/RO/ROBINBANK/UDPServersAndClients.zip: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/whenon.dir/LastLog/Entry.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/RevRefHash.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/Folded.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Counter.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/PwdOb.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/NTree.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/whenon.dir/LastLog/File.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/ThreadTree.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/CLR/Tree/Binary.pm.gz: skipping
+No dist_name/version/cpanid for H/HA/HARRY/Text-Convert-ToImage.tgz: skipping
+No dist_name/version/cpanid for J/JA/JACKS/IPC_SysV.tar.gz: skipping
+No dist_name/version/cpanid for P/PS/PSIONIC/tic/tic.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/modules/String/Edit.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/UnderScore.pm.gz: skipping
+No dist_name/version/cpanid for M/MI/MICB/AuthenIMAP.pm.gz: skipping
+No dist_name/version/cpanid for Q/QU/QUATRIX/Nagios-Downtime.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/TreeHash.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/ADVLABS/binstuff/SYS/lastlog.pm.gz: skipping
+No dist_name/version/cpanid for S/ST/STRYTOAST/bid.tar.gz: skipping
+No dist_name/version/cpanid for J/JE/JETTRA/RSS-Video-Google.tar.gz: skipping
+No dist_name/version/cpanid for J/JC/JCTEBBAL/smg.zip: skipping
+No dist_name/version/cpanid for V/VI/VIDUL/swd.tar.gz: skipping
+No dist_name/version/cpanid for S/ST/STRYTOAST/log.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/AppendHash.pm.gz: skipping
+No dist_name/version/cpanid for S/ST/STRYTOAST/lot.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrNum.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/web/Proxy/HTML.pm.gz: skipping
+No dist_name/version/cpanid for T/TY/TYEMQ/FileKGlob.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/ClockTimer.pm.gz: skipping
+No dist_name/version/cpanid for G/GU/GUYDX/Table.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrTree.pm.gz: skipping
+No dist_name/version/cpanid for G/GW/GWORROLL/BitArray1-0.tar.gz: skipping
+No dist_name/version/cpanid for D/DO/DODGER/WebPresence/WebPresence-Profile.tar.gz: skipping
+No dist_name/version/cpanid for M/MU/MUIR/scripts/frogbak.tar.gz: skipping
+No dist_name/version/cpanid for H/HA/HAKANARDO/DBIx-HTMLView-LATEST.tar.gz: skipping
+No dist_name/version/cpanid for M/MU/MUIR/modules/Ref.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/queues/strpris/PriQueue.pm.gz: skipping
+No dist_name/version/cpanid for C/CE/CECALA/CECALA.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/ADVLABS/rprint/pref.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StupidTree.pm.gz: skipping
+No dist_name/version/cpanid for F/FE/FERNANDES/Reduziguais.zip: skipping
+No dist_name/version/cpanid for G/GS/GSEAMAN/XML-DB.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/ADVLABS/nice/Nice.pm.gz: skipping
+Will delete Text-CSV-DetectSeparator
+Will delete Acme-Fitness
+Will delete Bio-FastaStream
+Info from CPAN::SQLite::Populate::auths: No author data to insert
+Inserting Text-Hyphen of KAPPA
+Inserting Text-EmacsColor of JROCKWAY
+Inserting Encode-Detect-CJK of FOOLFISH
+Inserting Net-Tor-Servers of AJDIXON
+Inserting Algorithm-PageRank-XS of AXIAK
+Inserting Util-Any of KTAT
+Inserting Kamaitachi of TYPESTER
+Inserting LWP-Curl of LORN
+Inserting CSS-Packer of NEVESENIN
+Inserting HTML-FormatExternal of KRYDE
+Inserting Net-Flow-Ie of AKOBA
+Inserting Tie-Array-Boolean of KYLE
+Updating author BDFOY
+Updating author TOMMY
+Updating author DEXTER
+Updating author KRYDE
+Updating author JKEGL
+Updating author KTAT
+Updating author NODINE
+Updating author CHISEL
+Updating author MLEHMANN
+Updating author MARKSTOS
+Updating author KAPPA
+Updating author FAYLAND
+Updating author KYLE
+Updating author AFF
+Updating author UVOELKER
+Updating author SARTAK
+Updating author PJF
+Updating author DSPADEA
+Updating author ROBMAN
+Updating author GNUSTAVO
+Updating author TYPESTER
+Updating author PLU
+Updating author MGRIMES
+Updating author RPETTETT
+Updating author SJQUINNEY
+Updating author SMUELLER
+Updating author KMCGRATH
+Updating author SERA
+Updating author SALVA
+Updating author LBROCARD
+Updating author CAMELCASE
+Updating author RSAVAGE
+Updating author FOOLFISH
+Updating author AXIAK
+Updating author PERRAD
+Updating author MBARBON
+Updating author AJDIXON
+Updating author CJONES
+Updating author JOHND
+Updating author CFRANKS
+Updating author LORN
+Updating author BINGOS
+Updating author STRZELEC
+Updating author MIYAGAWA
+Updating author KARASIK
+Updating author GAAS
+Updating author DSTAAL
+Updating author SCHWIGON
+Updating author KARMAN
+Updating author DAVIDRW
+Updating author JROCKWAY
+Updating author ELISA
+Updating author TOKUHIROM
+Updating author GRIAN
+Updating author MAROS
+Updating author IFUSCHINI
+Updating author NEVESENIN
+Updating author NUFFIN
+Updating author MJFLICK
+Updating author SEMUELF
+Updating author MRAMBERG
+Updating author RSRCHBOY
+Updating author JROBINSON
+Updating author SEKIMURA
+Updating author GFUJI
+Updating author AKOBA
+Updating author SANKO
+Updating author CASIANO
+Updating author DAGOLDEN
+Updating author MKUTTER
+Updating author NILSONSFJ
+Updating author SHLOMIF
+Updating author FLORA
+Updating author GBROWN
+Updating author JOSEPHW
+Updating author JANUS
+Updating author VPIT
+Updating author RJBS
+Updating author ISILLITOE
+Updating author INGY
+Updating author GSLONDON
+Updating author GBARR
+Updating Wx of MBARBON
+Updating Titanium of MARKSTOS
+Updating YAML of INGY
+Updating CatalystX-CRUD-Controller-RHTMLO of KARMAN
+Updating HTML-FormFu-Imager of CFRANKS
+Updating Template-Plugin-ForumCode of CHISEL
+Updating YAML-Old of INGY
+Updating Net-Flow of AKOBA
+Updating BerkeleyDB-Manager of NUFFIN
+Updating Rose-DBx-Object-Cached-CHI of KMCGRATH
+Updating CPAN-Reporter of DAGOLDEN
+Updating XML-RSS of SHLOMIF
+Updating ClearPress of RPETTETT
+Updating LCFG-Build-Skeleton of SJQUINNEY
+Updating HTTP-Session of TOKUHIROM
+Updating Nginx-Simple of MJFLICK
+Updating KiokuDB of NUFFIN
+Updating Log-Facile of SERA
+Updating Exception-Base of DEXTER
+Updating Catalyst-View-XSLT of JANUS
+Updating CharsetDetector of FOOLFISH
+Updating SWISH-API-Object of KARMAN
+Updating SQL-Translator of JROBINSON
+Updating ToolSet of DAGOLDEN
+Updating Exception-System of DEXTER
+Updating Subtitles of KARASIK
+Updating File-Util of TOMMY
+Updating POE-Component-SmokeBox of BINGOS
+Updating Exception-Died of DEXTER
+Updating Finance-Card-Citibank of MGRIMES
+Updating Class-MethodMaker of SCHWIGON
+Updating Class-C3-Adopt-NEXT of FLORA
+Updating KiokuDB-Backend-BDB of NUFFIN
+Updating Business-ISBN-Data of BDFOY
+Updating Bio-Das-ProServer of RPETTETT
+Updating Test-Assert of DEXTER
+Updating DBIx-Admin-CreateTable of RSAVAGE
+Updating all of DEXTER
+Updating Parse-Marpa of JKEGL
+Updating IO-Lambda of KARASIK
+Updating MySQL-SlowLog-Filter of FAYLAND
+Updating Exception-Warning of DEXTER
+Updating CPANPLUS-Dist-RPM of RSRCHBOY
+Updating SVN-Hooks of GNUSTAVO
+Updating Parse-Gnaw of GSLONDON
+Updating MooseX-Blessed-Reconstruct of NUFFIN
+Updating Catalyst-Controller-HTML-FormFu of CFRANKS
+Updating MooseX-Role-Cmd of ISILLITOE
+Updating Passwd-Unix of STRZELEC
+Updating Apache2-ASP of JOHND
+Updating Data-ParseBinary of SEMUELF
+Updating Net-BitTorrent of SANKO
+Updating Text-Restructured of NODINE
+Updating Pod-Advent of DAVIDRW
+Updating NetHack-Item of SARTAK
+Updating MooseX-YAML of NUFFIN
+Updating Deliantra-Client of MLEHMANN
+Updating XML-Writer of JOSEPHW
+Updating Web-oEmbed of MIYAGAWA
+Updating DBIx-Class-ResultSet-HashRef of PLU
+Updating Path-Class-URI of MIYAGAWA
+Updating Class-XSAccessor-Array of SMUELLER
+Updating Apache2-Mojo of UVOELKER
+Updating POE-Component-CPANPLUS-YACSmoke of BINGOS
+Updating Search-QueryParser-SQL of KARMAN
+Updating DayDayUp of FAYLAND
+Updating Gtk2-Ex-TickerView of KRYDE
+Updating POE-Component-Client-DNSBL of BINGOS
+Updating libwww-perl of GAAS
+Updating autodie of PJF
+Updating HTML-FormFu of CFRANKS
+Updating LWP-UserAgent-WithCache of SEKIMURA
+Updating App-Nopaste of SARTAK
+Updating Parse-Eyapp of CASIANO
+Updating Data-Rx-Type-PCRE of RJBS
+Updating Catalyst-Plugin-Geography of MRAMBERG
+Updating Class-Serializer of NILSONSFJ
+Updating Net-sFlow of ELISA
+Updating Net-EPP of GBROWN
+Updating Data-Util of GFUJI
+Updating HTML-FormFu-Model-DBIC of CFRANKS
+Updating CatalystX-CRUD of KARMAN
+Updating Apache2-WURFLFilter of IFUSCHINI
+Updating LCFG-Build-Tools of SJQUINNEY
+Updating Test-Base of INGY
+Updating Storable-AMF of GRIAN
+Updating MojoX-Renderer-Mason of GBARR
+Updating SWISH-API-Stat of KARMAN
+Updating SOAPjr of ROBMAN
+Updating Net-OpenSSH of SALVA
+Updating Mail-Log-Trace of DSTAAL
+Updating MultiThread of DSPADEA
+Updating Beanstalk-Client of GBARR
+Updating Mouse of SARTAK
+Updating DBIx-Compare of CJONES
+Updating HTML-TurboForm of CAMELCASE
+Updating DateTime-Format-CLDR of MAROS
+Updating CGI-Application-Dispatch of MARKSTOS
+Updating SOAP-WSDL of MKUTTER
+Updating CORBA-JAVA of PERRAD
+Updating Net-Amazon-S3 of LBROCARD
+Updating indirect of VPIT
+Updating Test-MockDBI of AFF
+Updating CPANPLUS-Dist-Gentoo of VPIT
+Updating Class-XSAccessor of SMUELLER
+Updating SOAP::WSDL::XSD::Typelib::Builtin::anyURI
+Updating KiokuDB::Backend::Serialize::Storable
+Updating SOAP::WSDL::XSD::Element
+Updating HTML::FormFu::Element::Checkboxgroup
+Updating CORBA::JAVA::LiteralVisitor
+Updating Wx::RichText
+Updating Wx::Help
+Updating HTML::FormFu::Element::_MultiElement
+Updating HTML::FormFu::Element::Src
+Updating NetHack::Item::Spoiler::Scroll
+Updating YAML::Old::Loader::Base
+Updating SOAP::WSDL::Transport::HTTP
+Updating SVN::Hooks::AllowLogChange
+Updating NetHack::Item::Food
+Updating Net::EPP::Frame::Command::Update
+Updating DayDayUp::Context
+Updating Test::Base
+Updating SOAP::WSDL::Generator::Template::Plugin::XSD
+Updating SOAP::WSDL::Expat::MessageStreamParser
+Updating HTML::FormFu::Filter::Whitespace
+Updating DC::UI::ChatView
+Updating Class::MethodMaker::Engine
+Updating SOAP::WSDL::Transport::Loopback
+Updating Wx::DataView
+Updating SOAP::WSDL::XSD::MinExclusive
+Updating Text::Restructured::Directive::code_block
+Updating IO::Lambda::HTTP::Authen::Negotiate
+Updating Net::EPP::Frame::Command::Delete::Domain
+Updating SOAP::WSDL::XSD::Typelib::Builtin::date
+Updating SOAP::WSDL::XSD::Typelib::Builtin::string
+Updating HTTP::Session::State::Test
+Updating Net::EPP::Frame::Command::Poll::Ack
+Updating Bio::Das::ProServer::Authenticator
+Updating Apache2::ASP::Mock::Connection
+Updating DC::UI::Dockable
+Updating Catalyst::Controller::HTML::FormFu::Action::FormMethod
+Updating KiokuDB::Backend::Role::BinarySafe
+Updating YAML::Old::Loader
+Updating KiokuDB::Backend::Serialize::JSPON::Expander
+Updating IO::Lambda::Thread
+Updating Mouse::Meta::Role
+Updating HTML::FormFu::Constraint::reCAPTCHA
+Updating HTML::TurboForm::Element
+Updating LCFG::Build::Utils
+Updating SQL::Translator::Parser::MySQL
+Updating SOAP::WSDL::XSD::Schema
+Updating YAML::Any
+Updating SOAP::WSDL::TypeLookup
+Updating Apache2::ASP::TransHandler
+Updating ClearPress::view
+Updating KiokuDB::TypeMap::Entry::Alias
+Updating IO::Lambda::Loop::AnyEvent
+Updating HTTP::Session::Store::DBM
+Updating Data::Util::Error
+Updating indirect
+Updating KiokuDB::Backend::Role::Query::Simple::Linear
+Updating Wx::Calendar
+Updating NetHack::Item::Tool::Light
+Updating HTML::FormFu::Constraint::SingleValue
+Updating SOAP::WSDL::Server::Mod_Perl2
+Updating HTML::FormFu::Deploy
+Updating CPAN::Reporter::History
+Updating SOAP::WSDL::XSD::Typelib::Builtin::double
+Updating Web::oEmbed
+Updating LWP::Protocol::mailto
+Updating Gtk2::Ex::TickerView
+Updating Parse::Marpa
+Updating KiokuDB::Linker
+Updating YAML::Old::Node
+Updating HTTP::Message
+Updating HTTP::Headers::Auth
+Updating KiokuDB::Set::Loaded
+Updating HTML::FormFu::FakeQuery
+Updating Class::Serializer
+Updating NetHack::Item::Armor::Boots
+Updating Apache2::ASP::ApplicationStateManager::MySQL
+Updating KiokuDB::Test::Employee
+Updating YAML::Dumper::Base
+Updating SOAP::WSDL::XSD::Typelib::Builtin::nonNegativeInteger
+Updating LWP::RobotUA
+Updating HTML::FormFu::Plugin::StashValid
+Updating HTML::FormFu::Element::Date
+Updating Net::EPP::Frame::Command::Check::Host
+Updating HTML::TurboForm::Constraint::Date
+Updating Parse::Eyapp::Output
+Updating Net::Amazon::S3::Request
+Updating Net::OpenSSH::Constants
+Updating HTML::FormFu::Constraint::Callback
+Updating NetHack::Item::Spoiler::Weapon
+Updating HTML::FormFu::Constraint::MinLength
+Updating Wx::MDI
+Updating NetHack::Item::Role::Enchantable
+Updating Apache2::ASP::Response
+Updating Catalyst::View::XSLT
+Updating SOAP::WSDL::XSD::Typelib::Builtin::list
+Updating SQL::Translator::Producer::HTML
+Updating Wx::DND
+Updating HTML::FormFu::Constraint::Email
+Updating HTML::FormFu::Element::Image
+Updating XML::RSS::Private::Output::Base
+Updating App::Nopaste::Service::Mathbin
+Updating HTML::FormFu::Element::Reset
+Updating SQL::Translator::Parser::DBI::MySQL
+Updating SOAP::WSDL::XSD::Typelib::Builtin::short
+Updating HTML::FormFu::Element::Text
+Updating Text::Restructured::DOM
+Updating HTML::FormFu::Constraint::ASCII
+Updating NetHack::Item::Armor::Shirt
+Updating Net::EPP::Protocol
+Updating SOAP::WSDL::XSD::Enumeration
+Updating HTML::FormFu::Validator
+Updating Apache2::ASP::Test::UploadObject
+Updating POE::Component::SmokeBox::Backend::Test::Excess
+Updating IO::Lambda::Signal
+Updating HTML::FormFu::Inflator
+Updating WWW::RobotRules::AnyDBM_File
+Updating DC::UI::Canvas
+Updating Data::Rx::Type::PCRE
+Updating Apache2::ASP::ASPHandler
+Updating SOAP::WSDL::XSD::MaxInclusive
+Updating HTML::FormFu::Validator::Imager::Size
+Updating YAML::Base
+Updating SOAP::WSDL
+Updating Parse::Eyapp::Base
+Updating Parse::Eyapp::Lalr
+Updating Apache2::ASP::Server
+Updating SQL::Translator::Schema::Graph::CompoundEdge
+Updating NetHack::Item::Meta::Trait::IncorporatesUndef
+Updating SQL::Translator::Schema::Graph::HyperEdge
+Updating Net::EPP::Frame::Command::Logout
+Updating NetHack::Item::Potion
+Updating HTML::FormFu::I18N::pt_pt
+Updating CatalystX::CRUD::Test::Controller
+Updating Net::EPP::Frame::Command::Check::Domain
+Updating Apache2::ASP::UploadHook
+Updating HTML::FormFu::Filter::Regex
+Updating Apache2::ASP::ApplicationStateManager::SQLite
+Updating Catalyst::Controller::HTML::FormFu
+Updating SOAP::WSDL::Deserializer::Hash
+Updating LWP::Protocol::file
+Updating File::Util
+Updating Apache2::ASP::Mock::Pool
+Updating KiokuDB::Reference
+Updating SOAP::WSDL::Deserializer::XSD
+Updating DC::UI
+Updating SQL::Translator::Parser::DBI::Oracle
+Updating HTML::FormFu::Element::ComboBox
+Updating HTML::FormFu::Element::Checkbox
+Updating HTTP::Session::Store::OnMemory
+Updating Mail::Log::Trace::Postfix
+Updating SOAP::WSDL::XSD::MaxExclusive
+Updating LWP::ConnCache
+Updating Apache2::ASP::RequestFilter
+Updating SQL::Translator::Parser::SQLServer
+Updating NetHack::Item::Armor::Cloak
+Updating Net::Amazon::S3::Request::GetObject
+Updating HTML::FormFu::Constraint::Required
+Updating KiokuDB::GIN
+Updating POE::Component::SmokeBox::Backend::Base
+Updating CatalystX::CRUD::Iterator
+Updating Wx::AUI
+Updating LWP::Protocol
+Updating Wx::Menu
+Updating SOAP::WSDL::XSD::Typelib::Builtin::ENTITY
+Updating Bio::Das::ProServer::SourceAdaptor::Transport::ensembl
+Updating Bio::Das::ProServer::SourceAdaptor::simpledb
+Updating HTML::TurboForm::Element::Textarea
+Updating HTML::FormFu::I18N::de
+Updating Test::YAML
+Updating Apache2::ASP::GlobalASA
+Updating Parse::Eyapp
+Updating SOAP::WSDL::Generator::Template
+Updating HTML::FormFu::Filter::HTMLEscape
+Updating LCFG::Build::Utils::MacOSX
+Updating SOAP::WSDL::Expat::Message2Hash
+Updating HTML::FormFu::Inflator::DateTime
+Updating HTML::FormFu::Filter::CopyValue
+Updating NetHack::Item::Spoiler
+Updating Apache2::ASP::Test::Base
+Updating HTML::FormFu::Inflator::CompoundDateTime
+Updating IO::Lambda::Loop::Prima
+Updating SOAP::WSDL::XSD::Typelib::Builtin::nonPositiveInteger
+Updating LWP::Protocol::ftp
+Updating HTML::TurboForm::Element::Slider
+Updating HTML::FormFu::I18N::es
+Updating Apache2::ASP::ModPerl2CGI
+Updating SQL::Translator::Parser::xSV
+Updating HTML::FormFu::Imager
+Updating HTTP::Headers
+Updating SOAP::WSDL::Generator::Visitor::Typelib
+Updating Bio::Das::ProServer::SourceAdaptor::Transport::csv
+Updating Class::MethodMaker::OptExt
+Updating SOAP::WSDL::XSD::Typelib::Builtin::NMTOKEN
+Updating CharsetDetector
+Updating HTML::FormFu::Constants
+Updating SQL::Translator::Schema::Trigger
+Updating Apache2::ASP::SessionStateManager::SQLite
+Updating KiokuDB::Backend::Serialize::Memory
+Updating HTTP::Request
+Updating XML::RSS::Private::Output::V2_0
+Updating Test::SQL::Translator
+Updating App::Nopaste::Service::Husk
+Updating SOAP::WSDL::XSD::Typelib::Builtin::long
+Updating HTML::FormFu::base
+Updating NetHack::Item::Armor::Gloves
+Updating Exception::Died
+Updating Wx::View
+Updating SQL::Translator::Parser::YAML
+Updating Net::EPP::Frame::Command::Check
+Updating NetHack::Item::Tool
+Updating Wx::STC
+Updating SOAP::WSDL::Types
+Updating NetHack::Item::Wand
+Updating Mouse::TypeRegistry
+Updating LCFG::Build::Tool::RPM
+Updating KiokuDB::Test::Fixture::Clear
+Updating Net::EPP::Frame::Command::Update::Contact
+Updating HTML::FormFu::Element::Blank
+Updating HTML::FormFu::I18N::fr
+Updating HTML::FormFu::Element::SimpleTable
+Updating HTML::FormFu::Upload
+Updating Moose::Meta::Attribute::Custom::Trait::IncorporatesUndef
+Updating HTML::TurboForm::Element::Html
+Updating POE::Component::SmokeBox::Result
+Updating LWP::Protocol::nogo
+Updating HTTP::Session::Store::Test
+Updating SQL::Translator::Schema::Table
+Updating SOAP::WSDL::SOAP::Typelib::Fault11
+Updating SQL::Translator::Producer::SQLite
+Updating Net::Amazon::S3::Client
+Updating HTML::FormFu::Element
+Updating Net::Flow
+Updating NetHack::Item::Spoiler::Wand
+Updating DayDayUp::Perl
+Updating HTML::FormFu::Element::ContentButton
+Updating YAML::Tag
+Updating HTML::FormFu::Localize
+Updating HTML::FormFu::Constraint::File
+Updating SOAP::WSDL::Factory::Deserializer
+Updating Tail
+Updating SOAP::WSDL::Expat::WSDLParser
+Updating HTML::FormFu::Exception::Input
+Updating HTML::FormFu::Filter::TrimEdges
+Updating KiokuDB::Backend::TypeMap::Default
+Updating Apache2::Mojo
+Updating Mouse::Object
+Updating HTML::FormFu::Deflator
+Updating Parse::Eyapp::YATW
+Updating SQL::Translator::Producer::DiaUml
+Updating HTTP::Session::Store::Null
+Updating ClearPress::model
+Updating SOAP::WSDL::XSD::Typelib::Builtin
+Updating SWISH::API::Stat
+Updating App::Nopaste::Service::Rafb
+Updating Mouse::Role
+Updating YAML::Marshall
+Updating NetHack::Item::Armor::Shield
+Updating KiokuDB::Set::Storage
+Updating HTML::TurboForm::Constraint::Email
+Updating HTML::FormFu::Filter::Callback
+Updating ToolSet::SWC
+Updating NetHack::Item::Armor
+Updating SOAP::WSDL::OpMessage
+Updating HTML::FormFu::OutputProcessor
+Updating Net::EPP::Frame::Command::Info::Domain
+Updating DayDayUp::Contacts
+Updating HTML::FormFu::Plugin
+Updating Wx::Print
+Updating SOAP::WSDL::XSD::Typelib::Builtin::hexBinary
+Updating ClearPress
+Updating KiokuDB::Role::UUIDs::Str
+Updating HTML::FormFu::Element::Hr
+Updating HTML::FormFu::Constraint::DependOn
+Updating SQL::Translator::Parser::SQLite
+Updating HTML::FormFu::Exception::Transformer
+Updating DBIx::Admin::CreateTable
+Updating DBIx::Compare::Oracle
+Updating KiokuDB::TypeMap::Entry
+Updating HTML::FormFu::Exception::Inflator
+Updating SQL::Translator::Producer::GraphViz
+Updating HTML::FormFu::Filter::CompoundJoin
+Updating CPANPLUS::Dist::RPM
+Updating HTML::FormFu::Filter::_Compound
+Updating LWP::MediaTypes
+Updating LWP::Protocol::data
+Updating SOAP::WSDL::XSD::Typelib::Builtin::negativeInteger
+Updating SOAP::WSDL::XSD::WhiteSpace
+Updating all
+Updating SOAP::WSDL::Client
+Updating Test::MockDBI
+Updating Net::EPP::Frame::Command::Poll::Req
+Updating SOAPjr::request
+Updating HTML::FormFu::I18N::it
+Updating IO::Lambda::Message
+Updating MySQL::SlowLog::Filter
+Updating HTML::TurboForm::Element::Date
+Updating Data::Util::PurePerl
+Updating Data::Util
+Updating Beanstalk::Client
+Updating Net::Amazon::S3::Request::SetBucketAccessControl
+Updating Bio::Das::ProServer::Authenticator::ip
+Updating Wx::RadioBox
+Updating HTML::FormFu::Preload
+Updating Apache2::ASP::SimpleCGI
+Updating KiokuDB::LiveObjects
+Updating Apache2::ASP::ErrorHandler
+Updating NetHack::Item::Spoiler::Other
+Updating Wx::build::MakeMaker::Any_OS
+Updating LCFG::Build::Utils::RPM
+Updating Net::Amazon::S3::HTTPRequest
+Updating HTML::FormFu::OutputProcessor::Indent
+Updating Net::BitTorrent::Torrent::File
+Updating SOAP::WSDL::XSD::Length
+Updating KiokuDB::Backend::Null
+Updating HTML::FormFu::Constraint::Number
+Updating KiokuDB::Test::Fixture::TXN
+Updating SQL::Translator::Diff
+Updating Squirrel::Role
+Updating POE::Component::SmokeBox::Backend
+Updating Wx::Perl::SplashFast
+Updating LCFG::Build::Tool::DevOSXPkg
+Updating YAML::Old
+Updating WWW::RobotRules
+Updating SOAP::WSDL::XSD::Typelib::Builtin::integer
+Updating Net::EPP::Frame::Command::Transfer::Domain
+Updating KiokuDB::Role::TypeMap
+Updating Apache2::ASP::ApplicationStateManager
+Updating HTML::FormFu::Filter
+Updating SVN::Hooks::UpdateConfFile
+Updating POE::Component::Client::DNSBL
+Updating NetHack::Item::Spellbook
+Updating Net::EPP::Frame::Command::Info::Host
+Updating Fatal
+Updating Net::EPP::Frame::Command
+Updating Parse::Eyapp::Cleaner
+Updating KiokuDB::Backend::BDB
+Updating LCFG::Build::Tool::DevRPM
+Updating KiokuDB::Set::Base
+Updating LCFG::Build::Tools
+Updating SQL::Translator::Producer::TT::Base
+Updating NetHack::Item::Ring
+Updating Wx::build::MakeMaker::MacOSX_GCC
+Updating LWP::Protocol::cpan
+Updating HTML::TurboForm::Element::Checkbox
+Updating SQL::Translator::Producer::DB2
+Updating HTTP::Status
+Updating KiokuDB::Test::Fixture::SimpleSearch
+Updating Moose::Meta::Attribute::Custom::Trait::KiokuDB::Lazy
+Updating IO::Lambda::Fork
+Updating SOAP::WSDL::XSD::Typelib::Builtin::gYear
+Updating DayDayUp::Notes
+Updating NetHack::Item
+Updating App::Nopaste::Command
+Updating HTML::FormFu::Element::Radio
+Updating KiokuDB::Test::Fixture::TypeMap::Default
+Updating HTML::FormFu::Model
+Updating HTML::FormFu::Filter::LowerCase
+Updating SOAP::WSDL::XSD::Typelib::Builtin::gDay
+Updating Tail2
+Updating POE::Component::SmokeBox::Backend::CPANPLUS::YACSmoke
+Updating HTTP::Session::State::URI
+Updating Parse::Eyapp::Driver
+Updating KiokuDB::TypeMap::Entry::Callback
+Updating Apache2::ASP::HTTPHandler
+Updating NetHack::Item::Spoiler::Food
+Updating LCFG::Build::Tool::Pack
+Updating Apache2::ASP::UploadHookArgs
+Updating HTTP::Session
+Updating DC::Texture
+Updating SQL::Translator::Parser::DB2
+Updating SOAP::WSDL::SOAP::Header
+Updating Wx::Socket
+Updating Apache2::ASP::Test::UserAgent
+Updating Net::EPP::Frame::Greeting
+Updating CatalystX::CRUD::ModelAdapter::File
+Updating HTML::FormFu::I18N
+Updating LCFG::Build::Tool::MicroVersion
+Updating SQL::Translator::Schema::Field
+Updating HTML::FormFu::Exception::Constraint
+Updating SQL::Translator::Producer::Sybase
+Updating SOAP::WSDL::XSD::Attribute
+Updating Catalyst::Controller::HTML::FormFu::Action::Form
+Updating Exception::Base
+Updating Net::EPP::Frame::Command::Delete::Host
+Updating KiokuDB::Role::UUIDs::DataUUID::Bin
+Updating HTML::FormFu::Validator::Callback
+Updating KiokuDB::TypeMap::Shadow
+Updating SQL::Translator::Shell
+Updating HTML::TurboForm::Element::Range
+Updating SQL::Translator::Filter::Globals
+Updating KiokuDB::Backend::Serialize
+Updating LWP::Protocol::https
+Updating NetHack::Item::Armor::Helmet
+Updating HTML::FormFu::Element::Textarea
+Updating SOAP::WSDL::Generator::Template::XSD
+Updating SQL::Translator::Schema::Graph::Node
+Updating SQL::Translator::Producer::XML::SQLFairy
+Updating KiokuDB::TypeMap::Default::Passthrough
+Updating HTTP::Date
+Updating SQL::Translator::Producer::PostgreSQL
+Updating MooseX::Blessed::Reconstruct
+Updating SOAP::WSDL::XSD::Typelib::Builtin::int
+Updating Net::EPP::Frame::Command::Login
+Updating DC::DB
+Updating SQL::Translator::Producer
+Updating XML::RSS::Private::Output::V1_0
+Updating CatalystX::CRUD::Iterator::File
+Updating SQL::Translator::Parser::Storable
+Updating NetHack::Item::Tool::Instrument
+Updating ClearPress::driver
+Updating Math::Tail
+Updating HTML::FormFu::Constraint::DateTime
+Updating SOAP::WSDL::XSD::Group
+Updating ToolSet
+Updating SQL::Translator::Parser::Sybase
+Updating Wx::build::MakeMaker::Win32
+Updating KiokuDB::Backend::BDB::Manager
+Updating Finance::Card::Citibank
+Updating Net::Amazon::S3::Request::ListAllMyBuckets
+Updating KiokuDB::Test::Person
+Updating SOAP::WSDL::Client::Base
+Updating Class::MethodMaker::Constants
+Updating CORBA::JAVA::UidVisitor
+Updating YAML::Old::Error
+Updating Net::BitTorrent::Torrent::Tracker::HTTP
+Updating HTML::FormFu::Util
+Updating SOAPjr::message
+Updating Net::Amazon::S3::Request::PutObject
+Updating Net::Amazon::S3::Request::GetBucketAccessControl
+Updating SOAP::WSDL::Base
+Updating Passwd::Unix
+Updating DC::MessageDistributor
+Updating HTML::TurboForm
+Updating HTML::FormFu::Deflator::CompoundSplit
+Updating Wx::build::MakeMaker
+Updating Net::EPP::Frame::Command::Transfer::Contact
+Updating Bio::Das::ProServer::SourceAdaptor::all_in_group
+Updating CatalystX::CRUD
+Updating Apache2::ASP::ASPDOM::Document
+Updating Apache2::ASP::ASPPage
+Updating SOAP::WSDL::Port
+Updating ClearPress::driver::SQLite
+Updating CGI::Application::Dispatch
+Updating SOAP::WSDL::XSD::Schema::Builtin
+Updating Catalyst::Controller::HTML::FormFu::Action::FormConfig
+Updating Exception::System
+Updating Text::Restructured::Graph
+Updating DC::UI::SpellList
+Updating Wx::Grid
+Updating HTML::FormFu::Element::Fieldset
+Updating HTTP::Request::Common
+Updating autodie::exception::system
+Updating LWP::Protocol::loopback
+Updating HTTP::Response
+Updating SOAP::WSDL::Binding
+Updating Test::Base::Filter
+Updating Bio::Das::ProServer::SourceAdaptor::sif
+Updating Wx::build::MakeMaker::Any_wx_config
+Updating Apache2::ASP::ConfigPostProcessor
+Updating Net::BitTorrent::Protocol
+Updating Net::Amazon::S3
+Updating ClearPress::controller
+Updating MojoX::Renderer::Mason
+Updating Wx::XSP::Typemap
+Updating CPAN::Reporter
+Updating Mouse::Tiny
+Updating SVN::Hooks::DenyChanges
+Updating SOAP::WSDL::XSD::Typelib::SimpleType
+Updating Net::EPP::Frame::Command::Update::Domain
+Updating Net::EPP::Frame::Command::Poll
+Updating SQL::Translator::Producer::Latex
+Updating Catalyst::Helper::HTML::FormFu
+Updating SOAP::WSDL::SOAP::Address
+Updating HTML::TurboForm::Element::Select
+Updating HTML::TurboForm::Element::Image
+Updating KiokuDB::Role::UUIDs::Abstract
+Updating SOAP::WSDL::XSD::Typelib::Builtin::duration
+Updating SOAP::WSDL::XSD::Typelib::Builtin::unsignedLong
+Updating HTML::FormFu::Element::_MultiText
+Updating SOAP::WSDL::XSD::Typelib::Builtin::unsignedInt
+Updating HTML::FormFu::Constraint::File::Size
+Updating Catalyst::Controller::HTML::FormFu::Action::MultiForm
+Updating Apache2::ASP::ConfigFinder
+Updating CPANPLUS::Dist::Gentoo
+Updating HTML::FormFu::Element::_Field
+Updating HTML::FormFu::Deflator::Strftime
+Updating Net::HTTPS
+Updating Net::EPP::Frame::Command::Check::Contact
+Updating Net::sFlow
+Updating HTML::FormFu::Element::Select
+Updating Rose::DBx::Object::Cached::CHI
+Updating SOAP::WSDL::XSD::Typelib::Builtin::Name
+Updating DBIx::Compare::mysql
+Updating NetHack::Item::Spoiler::Amulet
+Updating LCFG::Build::Tool::SRPM
+Updating Net::EPP::Frame::Command::Delete::Contact
+Updating NetHack::Item::Scroll
+Updating SVN::Hooks::CheckMimeTypes
+Updating MooseX::YAML
+Updating CORBA::JAVA::Name2Visitor
+Updating IO::Lambda::Message::DBI
+Updating HTML::TurboForm::Element::Hidden
+Updating SOAP::WSDL::XSD::FractionDigits
+Updating SOAP::WSDL::XSD::Typelib::Builtin::time
+Updating SOAP::WSDL::XSD::Typelib::Builtin::NCName
+Updating SOAPjr::response
+Updating KiokuDB::TypeMap::Entry::Naive
+Updating KiokuDB::Thunk
+Updating DayDayUp
+Updating HTML::FormFu::Element::Submit
+Updating Net::BitTorrent::Util
+Updating SOAP::WSDL::Serializer::XSD
+Updating Text::Restructured::URIre
+Updating Parse::Eyapp::Scope
+Updating HTML::Form
+Updating POE::Component::SmokeBox::Backend::CPAN::Reporter
+Updating Wx::DocView
+Updating HTML::FormFu::I18N::da
+Updating XML::Writer
+Updating KiokuDB::Backend::Role::Clear
+Updating SOAP::WSDL::XSD::Typelib::Builtin::gMonthDay
+Updating HTTP::Cookies::Netscape
+Updating LWP::Authen::Basic
+Updating POE::Component::SmokeBox::Backend::Test::Idle
+Updating IO::Lambda::DBI
+Updating ouse
+Updating LWP
+Updating Net::BitTorrent::Torrent::Tracker
+Updating HTTP::Session::State::Base
+Updating NetHack::Item::Role::Wearable
+Updating KiokuDB::Role::UUIDs::LibUUID
+Updating HTTP::Negotiate
+Updating KiokuDB::Test::Fixture::Unicode
+Updating SOAP::WSDL::XSD::Typelib::Element
+Updating HTML::FormFu::Constraint::Regex
+Updating POE::Component::SmokeBox::Backend::Test::Loop
+Updating SOAP::WSDL::XSD::Typelib::Builtin::anyType
+Updating App::Nopaste::Service::Snitch
+Updating Beanstalk::Stats
+Updating Bio::Das::ProServer::SourceHydra
+Updating KiokuDB::Role::UUIDs
+Updating HTTP::Config
+Updating HTML::FormFu::Constraint::Set
+Updating SVN::Hooks::Notify
+Updating HTML::FormFu::Element::_MultiSelect
+Updating Parse::Marpa::Lex
+Updating Storable::AMF
+Updating NetHack::Item::Tool::Container
+Updating Apache2::WURFLFilter
+Updating SQL::Translator::Parser::DBI::SQLite
+Updating HTTP::Session::Store::Memcached
+Updating Apache2::ASP::Test::Fixtures
+Updating IO::Lambda::Socket
+Updating SVN::Hooks
+Updating SQL::Translator::Parser::DB2::Grammar
+Updating Apache2::ASP::ConfigNode
+Updating HTML::FormFu::Transformer::Imager
+Updating Class::MethodMaker::V1Compat
+Updating HTML::FormFu::Exception::Validator
+Updating Apache2::ASP::Config
+Updating KiokuDB::Role::UUIDs::DataUUID::Str
+Updating CatalystX::CRUD::Results
+Updating CatalystX::CRUD::Object
+Updating CatalystX::CRUD::Controller
+Updating SQL::Translator
+Updating Log::Facile
+Updating KiokuDB::Meta::Instance
+Updating CPAN::Reporter::PrereqCheck
+Updating HTML::FormFu::Constraint::Printable
+Updating Net::Amazon::S3::Bucket
+Updating HTML::FormFu::Element::_Group
+Updating SWISH::API::Object
+Updating SOAP::WSDL::Generator::Visitor
+Updating Wx::build::MakeMaker::Win32_MinGW
+Updating Bio::Das::ProServer::SourceHydra::dbi
+Updating App::Nopaste::Service::Shadowcat
+Updating SOAP::WSDL::XSD::Pattern
+Updating Wx::XSP::Node
+Updating HTML::FormFu::OutputProcessor::StripWhitespace
+Updating IO::Lambda::HTTP::Authen::NTLM
+Updating MooseX::Role::Cmd
+Updating SOAP::WSDL::XSD::Annotation
+Updating HTML::TurboForm::Element::Captcha
+Updating Apache2::ASP::HTTPContext
+Updating HTML::FormFu::Attribute
+Updating HTML::FormFu::Filter::HTMLScrubber
+Updating HTML::FormFu::Element::File
+Updating NetHack::Item::Spoiler::Gem
+Updating KiokuDB::TypeMap
+Updating KiokuDB::TypeMap::Entry::Passthrough
+Updating SOAP::WSDL::Factory::Serializer
+Updating NetHack::Item::Amulet
+Updating App::Nopaste
+Updating Text::Restructured
+Updating SOAPjr
+Updating Parse::Eyapp::Parse
+Updating Mouse
+Updating SOAP::WSDL::Definitions
+Updating Net::EPP::Frame::Command::Delete
+Updating Net::Amazon::S3::Request::CreateBucket
+Updating SQL::Translator::Producer::Oracle
+Updating NetHack::Item::Spoiler::Ring
+Updating HTML::FormFu::QueryType::Catalyst
+Updating Net::Amazon::S3::Request::GetObjectAccessControl
+Updating LWP::Protocol::GHTTP
+Updating Wx::App
+Updating SQL::Translator::Parser::DBI::PostgreSQL
+Updating HTML::FormFu::Filter::Encode
+Updating Storable::AMF0
+Updating SOAP::WSDL::Service
+Updating LWP::UserAgent::WithCache
+Updating HTML::TurboForm::Constraint::Equation
+Updating Beanstalk::Job
+Updating Class::XSAccessor::Array
+Updating DC::Item
+Updating HTTP::Session::State::Cookie
+Updating KiokuDB::Backend::TypeMap::Default::JSON
+Updating ClearPress::decorator
+Updating Parse::RecDescent::SQL::Translator::Parser::DB2::Grammar
+Updating Exception::Warning
+Updating SQL::Translator::Parser::Access
+Updating KiokuDB::LiveObjects::Scope
+Updating LCFG::Build::Tool
+Updating HTML::FormFu::Constraint::AllOrNone
+Updating KiokuDB::Test::Fixture
+Updating Bio::Das::ProServer::SourceAdaptor::styletest
+Updating HTML::FormFu::Element::Block
+Updating HTML::FormFu::Element::_Input
+Updating SOAP::WSDL::Factory::Generator
+Updating SQL::Translator::Parser::DBI::SQLServer
+Updating KiokuDB::Set::Stored
+Updating Wx::Html
+Updating T
+Updating HTML::FormFu::ObjectUtil
+Updating Nginx::Simple
+Updating HTML::FormFu::Constraint::MaxLength
+Updating YAML::Old::Types
+Updating HTML::FormFu::Exception
+Updating HTML::TurboForm::Constraint::Required
+Updating SQL::Translator::Schema::Procedure
+Updating NetHack::Item::Tool::Trap
+Updating SOAP::WSDL::Generator::PrefixResolver
+Updating Wx::build::MakeMaker::Hacks
+Updating SOAP::WSDL::XSD::Typelib::Builtin::token
+Updating YAML::Dumper
+Updating SOAPjr::base
+Updating SOAP::WSDL::SOAP::Body
+Updating Wx::Locale
+Updating Pod::Advent
+Updating KiokuDB::Backend::Hash
+Updating KiokuDB::TypeMap::Entry::Set
+Updating Apache2::ASP::SessionStateManager
+Updating HTML::FormFu::Filter::CompoundSprintf
+Updating Net::Amazon::S3::Request::ListBucket
+Updating CORBA::JAVA::ClassVisitor
+Updating Bio::Das::ProServer::Authenticator::http
+Updating Text::Restructured::Writer
+Updating HTTP::Headers::ETag
+Updating DateTime::Format::CLDR
+Updating NetHack::Item::Tool::Accessory
+Updating HTML::TurboForm::Constraint
+Updating Web::oEmbed::Response
+Updating Catalyst::Plugin::Geography
+Updating YAML::Error
+Updating NetHack::Item::Spoiler::Tool
+Updating Wx
+Updating Titanium
+Updating LCFG::Build::Tool::OSXPkg
+Updating KiokuDB::Set
+Updating POE::Component::SmokeBox::Job
+Updating NetHack::Item::Other
+Updating HTML::FormFu::Constraint::File::MIME
+Updating CatalystX::CRUD::Model::File
+Updating SVN::Hooks::CheckProperty
+Updating HTTP::Daemon
+Updating Wx::XSP::Grammar
+Updating SQL::Translator::Schema::Object
+Updating HTML::FormFu::Transformer::Callback
+Updating CORBA::JAVA
+Updating KiokuDB::Backend::BDB::GIN
+Updating KiokuDB::Backend::Serialize::Null
+Updating XML::RSS::Private::Output::Roles::ModulesElems
+Updating Net::HTTP::NB
+Updating HTML::FormFu::Constraint::Equal
+Updating HTML::FormFu::Element::Radiogroup
+Updating Wx::Overload::Driver
+Updating SOAP::WSDL::XSD::ComplexType
+Updating SOAP::WSDL::Server
+Updating HTTP::Session::State::MobileAttributeID
+Updating KiokuDB::Test::Fixture::GIN::Class
+Updating SQL::Translator::Producer::YAML
+Updating HTTP::Session::State::GUID
+Updating HTML::FormFu::Deflator::CompoundDateTime
+Updating HTML::FormFu::Element::Multi
+Updating HTML::TurboForm::Element::Radio
+Updating HTML::FormFu::Element::Hidden
+Updating Mail::Log::Trace
+Updating KiokuDB::Test::Fixture::Scan
+Updating DC::Protocol
+Updating SQL::Translator::Parser::DBI::Sybase
+Updating File::Listing
+Updating Bio::Das::ProServer::SourceAdaptor::simple_interaction
+Updating SVN::Hooks::DenyFilenames
+Updating autodie
+Updating DBIx::Class::ResultSet::HashRef
+Updating SQL::Translator::Schema::Graph::Port
+Updating HTML::FormFu::QueryType::CGI::Simple
+Updating SOAP::WSDL::XSD::Typelib::Builtin::byte
+Updating HTML::FormFu::Element::Password
+Updating HTTP::Session::ID::MD5
+Updating Net::Amazon::S3::Client::Object
+Updating SOAP::WSDL::XSD::AttributeGroup
+Updating Wx::build::MakeMaker::Win32_MSVC
+Updating KiokuDB::Test::Fixture::Binary
+Updating SOAP::WSDL::Server::CGI
+Updating DC::UI::Dockbar
+Updating Path::Class::Unicode
+Updating XML::RSS
+Updating NetHack::Item::Tool::Figurine
+Updating SOAP::WSDL::XSD::Typelib::Builtin::IDREFS
+Updating Test::Assert
+Updating LWP::DebugFile
+Updating SQL::Translator::Schema::View
+Updating Net::EPP::Frame::Hello
+Updating Wx::Overload::Handle
+Updating Mouse::Meta::Attribute
+Updating CORBA::JAVA::ClassXmlVisitor
+Updating SQL::Translator::Parser
+Updating POE::Component::SmokeBox
+Updating Mouse::Meta::Class
+Updating IO::Lambda::HTTP::HTTPS
+Updating Catalyst::Controller::HTML::FormFu::Action::MultiFormConfig
+Updating KiokuDB::Class
+Updating Apache2::ASP::Mock::RequestRec
+Updating DBIx::Compare::Pg
+Updating Text::Restructured::Directive::system
+Updating KiokuDB::Collapser
+Updating SOAP::WSDL::XSD::Typelib::Builtin::positiveInteger
+Updating Apache2::ASP::ConfigNode::System
+Updating KiokuDB::Backend::Role::TXN
+Updating SOAP::WSDL::Message
+Updating KiokuDB::TypeMap::Entry::Std
+Updating SVN::Hooks::CheckStructure
+Updating SQL::Translator::Producer::XML
+Updating KiokuDB::Backend::Role::Query::Simple
+Updating Apache2::ASP::ConfigNode::Web
+Updating SOAP::WSDL::XSD::Typelib::Builtin::unsignedShort
+Updating DC::Macro
+Updating HTML::FormFu::Model::DBIC
+Updating SQL::Translator::Parser::XML::SQLFairy
+Updating ClearPress::Template::Plugin::js_string
+Updating IO::Lambda::Flock
+Updating Wx::XRC
+Updating Net::Amazon::S3::Client::Bucket
+Updating KiokuDB::Role::UUIDs::SerialIDs
+Updating NetHack::Item::Role::Lightable
+Updating HTML::FormFu::Literal
+Updating DC::OpenGL
+Updating SOAP::WSDL::XSD::Typelib::Builtin::float
+Updating App::Nopaste::Service
+Updating SOAP::WSDL::Deserializer::SOM
+Updating Parse::Gnaw
+Updating NetHack::Item::Role::Chargeable
+Updating NetHack::Item::Role::Damageable
+Updating Apache2::ASP::ConfigNode::System::Settings
+Updating SOAP::WSDL::XSD::Typelib::Builtin::normalizedString
+Updating HTML::FormFu::Constraint::Word
+Updating Net::EPP::Frame::Command::Create
+Updating Parse::Eyapp::Options
+Updating Catalyst::Plugin::Geography::Implementation
+Updating Net::BitTorrent::DHT::Node
+Updating MultiThread
+Updating Squirrel
+Updating HTML::FormFu::Processor
+Updating LCFG::Build::Tool::MinorVersion
+Updating Path::Class::URI
+Updating Apache2::ASP::CacheManager
+Updating NetHack::Item::Tool::Key
+Updating Wx::build::Options
+Updating SOAP::WSDL::Part
+Updating POE::Component::SmokeBox::JobQueue
+Updating Net::EPP::Frame::Command::Create::Contact
+Updating KiokuDB::Role::UUIDs::Bin
+Updating KiokuDB::TypeMap::Default::JSON
+Updating SQL::Translator::Producer::TT::Table
+Updating LCFG::Build::Tool::MajorVersion
+Updating Apache2::ASP::ModPerl
+Updating LWP::Protocol::http10
+Updating HTTP::Cookies::Microsoft
+Updating Deliantra::Client
+Updating SVN::Hooks::Mailer
+Updating IO::Lambda::DNS
+Updating KiokuDB::Test
+Updating HTML::FormFu::I18N::pt_br
+Updating SOAP::WSDL::XSD::Typelib::Builtin::QName
+Updating Search::QueryParser::SQL::Query
+Updating Apache2::ASP::Mock::ClientSocket
+Updating DC::UI::Inventory
+Updating Subtitles
+Updating SOAP::WSDL::XSD::Typelib::Builtin::decimal
+Updating YAML::Old::Marshall
+Updating XML::RSS::Private::Output::V0_9
+Updating SOAP::WSDL::XSD::Typelib::Builtin::dateTime
+Updating SQL::Translator::Producer::SQLServer
+Updating NetHack::Item::Food::Corpse
+Updating Net::EPP::Frame::Response
+Updating KiokuDB::Role::UUIDs::DataUUID
+Updating SOAP::WSDL::XSD::Typelib::Builtin::NMTOKENS
+Updating HTML::FormFu::Transformer
+Updating HTML::FormFu::I18N::ja
+Updating LWP::Simple
+Updating IO::Lambda::HTTP
+Updating SOAP::WSDL::XSD::Typelib::Builtin::unsignedByte
+Updating Wx::Media
+Updating LWP::MemberMixin
+Updating SOAP::WSDL::XSD::MinLength
+Updating LWP::UserAgent
+Updating Net::BitTorrent
+Updating Wx::Timer
+Updating HTML::FormFu::Constraint::Bool
+Updating KiokuDB::TypeMap::Default
+Updating HTML::FormFu::Inflator::Imager
+Updating SOAP::WSDL::XSD::Typelib::AttributeSet
+Updating KiokuDB::Backend::Role::UnicodeSafe
+Updating KiokuDB::Entry
+Updating CatalystX::CRUD::Model::Utils
+Updating SQL::Translator::Producer::TTSchema
+Updating CPAN::Reporter::Config
+Updating Net::EPP::Frame::Command::Update::Host
+Updating Parse::Eyapp::_TreeregexpSupport
+Updating Apache2::ASP::ASPDOM::Node
+Updating Search::QueryParser::SQL
+Updating SOAP::WSDL::XSD::Typelib::Builtin::language
+Updating SVN::Hooks::CheckLog
+Updating SQL::Translator::Utils
+Updating NetHack::Item::Armor::Bodyarmor
+Updating Text::Restructured::Directive::perl
+Updating HTML::FormFu::Constraint::Range
+Updating YAML::Old::Tag
+Updating SQL::Translator::Producer::MySQL
+Updating Apache2::ASP
+Updating HTML::FormFu::I18N::en
+Updating SOAP::WSDL::Expat::Base
+Updating Apache2::ASP::ConfigLoader
+Updating Net::OpenSSH
+Updating autodie::exception
+Updating KiokuDB::Backend::Serialize::JSPON::Collapser
+Updating SOAP::WSDL::XSD::Typelib::Builtin::gMonth
+Updating SOAP::WSDL::XSD::TotalDigits
+Updating YAML::Old::Base
+Updating CGI::Application::Dispatch::Regexp
+Updating KiokuDB::TypeMap::Default::Storable
+Updating LWP::Authen::Digest
+Updating Exception::Assertion
+Updating Bio::Das::ProServer
+Updating Wx::Perl::Carp
+Updating Data::ParseBinary
+Updating NetHack::Item::Spoiler::Spellbook
+Updating NetHack::Item::Role::EnchantBUC
+Updating HTML::FormFu::Constraint
+Updating Template::Plugin::ForumCode
+Updating Net::Amazon::S3::Request::DeleteObject
+Updating Text::Restructured::Directive::if
+Updating Parse::Marpa::MDL
+Updating SQL::Translator::Schema::Graph
+Updating XML::RSS::Private::Output::Roles::ImageDims
+Updating HTML::FormFu::Element::_NonBlock
+Updating Storable::AMF3
+Updating Bio::Das::ProServer::SourceAdaptor::proxy
+Updating Wx::Mini
+Updating ClearPress::view::error
+Updating Bio::Das::ProServer::SourceAdaptor::Transport::sif
+Updating LCFG::Build::Tool::DevPack
+Updating SQL::Translator::Schema::Constraint
+Updating NetHack::Item::Weapon
+Updating Net::HTTP
+Updating HTML::FormFu::Constraint::CallbackOnce
+Updating Parse::Eyapp::Grammar
+Updating SQL::Translator::Parser::Oracle
+Updating DBIx::Compare::SQLite
+Updating SOAP::WSDL::Transport::Test
+Updating KiokuDB::TypeMap::Entry::MOP
+Updating SQL::Translator::Parser::DBI
+Updating HTML::FormFu::Filter::UpperCase
+Updating SOAP::WSDL::XSD::Typelib::Builtin::ID
+Updating Net::Amazon::S3::Request::DeleteBucket
+Updating CORBA::JAVA::NameXmlVisitor
+Updating NetHack::Item::Spoiler::Potion
+Updating Wx::Event
+Updating Bio::Das::ProServer::SourceAdaptor::simple_volmap
+Updating KiokuDB::Role::ID
+Updating NetHack::Item::Spoiler::Armor
+Updating SOAP::WSDL::XSD::Typelib::Builtin::IDREF
+Updating CatalystX::CRUD::Controller::RHTMLO
+Updating HTML::TurboForm::Element::Text
+Updating MooseX::Role::Cmd::Meta::Attribute::Trait
+Updating HTML::FormFu::Filter::NonNumeric
+Updating Apache2::ASP::FormHandler
+Updating POE::Component::SmokeBox::Backend::CPAN::YACSmoke
+Updating HTML::FormFu::Constraint::MinMaxFields
+Updating HTML::FormFu::Constraint::_others
+Updating DayDayUp::Index
+Updating KiokuDB::LiveObjects::TXNScope
+Updating SQL::Translator::Filter::DefaultExtra
+Updating KiokuDB::Backend::Role::Query
+Updating Class::MethodMaker
+Updating ClearPress::driver::mysql
+Updating SQL::Translator::Parser::XML
+Updating KiokuDB::Backend
+Updating Wx::DateTime
+Updating HTML::FormFu::UploadParam
+Updating SQL::Translator::Parser::DBI::DB2
+Updating Net::HTTP::Methods
+Updating YAML::Old::Dumper::Base
+Updating Net::EPP::Frame::Command::Renew
+Updating Wx::XSP::Parser
+Updating SOAP::WSDL::XSD::Builtin
+Updating Wx::build::Utils
+Updating SOAP::WSDL::XSD::Typelib::Builtin::boolean
+Updating Wx::XSP::Driver
+Updating LCFG::Build::Tool::CheckMacros
+Updating KiokuDB
+Updating HTML::FormFu
+Updating CatalystX::CRUD::Object::File
+Updating HTTP::Session::State::Null
+Updating KiokuDB::Backend::Role::Scan
+Updating IO::Lambda::Poll
+Updating IO::Lambda::SNMP
+Updating SQL::Translator::Filter::Names
+Updating DC::MapWidget
+Updating KiokuDB::Backend::Serialize::JSPON
+Updating SQL::Translator::Schema::Graph::Edge
+Updating KiokuDB::Backend::Role::Query::GIN
+Updating KiokuDB::Resolver
+Updating NetHack::Item::Tool::Candelabrum
+Updating SQL::Translator::Producer::Diagram
+Updating SVN::Hooks::JiraAcceptance
+Updating SOAP::WSDL::Generator::Iterator::WSDL11
+Updating LWP::Protocol::https10
+Updating Parse::Gnaw::Decomment
+Updating SOAP::WSDL::SOAP::HeaderFault
+Updating SQL::Translator::Producer::Storable
+Updating KiokuDB::TypeMap::Default::Canonical
+Updating Wx::Perl::TextValidator
+Updating XML::RSS::Private::Output::V0_91
+Updating SOAP::WSDL::Generator::Visitor::Typemap
+Updating YAML::Loader
+Updating SQL::Translator::Schema::Constants
+Updating SOAP::WSDL::Expat::MessageParser
+Updating KiokuDB::Set::Deferred
+Updating HTML::FormFu::Constraint::Length
+Updating SOAP::WSDL::XSD::Typelib::Attribute
+Updating NetHack::Item::Tool::Weapon
+Updating HTTP::Cookies
+Updating CORBA::JAVA::NameVisitor
+Updating HTML::FormFu::Filter::Split
+Updating HTML::TurboForm::Element::Imageslider
+Updating POE::Component::CPANPLUS::YACSmoke
+Updating POE::Component::SmokeBox::Smoker
+Updating KiokuDB::Meta::Attribute::Lazy
+Updating Apache2::ASP::SessionStateManager::MySQL
+Updating KiokuDB::TypeMap::Resolver
+Updating NetHack::Item::Gem
+Updating YAML::Types
+Updating Apache2::ASP::UploadHandler
+Updating KiokuDB::Role::UUIDs::LibUUID::Bin
+Updating Parse::Eyapp::Node
+Updating Net::Amazon::S3::Request::GetBucketLocationConstraint
+Updating Class::C3::Adopt::NEXT
+Updating HTML::FormFu::Element::Repeatable
+Updating HTTP::Headers::Util
+Updating App::Nopaste::Service::PastebinCom
+Updating YAML::Old::Dumper
+Updating HTML::FormFu::Constraint::Integer
+Updating Class::XSAccessor
+Updating LWP::Debug
+Updating Net::Amazon::S3::Request::SetObjectAccessControl
+Updating YAML::Node
+Updating Catalyst::Controller::HTML::FormFu::Action::MultiFormMethod
+Updating SOAP::WSDL::XSD::MinInclusive
+Updating YAML
+Updating SQL::Translator::Schema
+Updating Net::EPP::Frame::Command::Info::Contact
+Updating HTML::FormFu::Element::Button
+Updating LCFG::Build::Skeleton
+Updating SQL::Translator::Producer::Dumper
+Updating Module::Install::TestBase
+Updating HTTP::Session::Store::CHI
+Updating IO::Lambda
+Updating SOAP::WSDL::XSD::Typelib::Builtin::gYearMonth
+Updating KiokuDB::Role::UUIDs::LibUUID::Str
+Updating LWP::Authen::Ntlm
+Updating KiokuDB::Test::Company
+Updating KiokuDB::Backend::TypeMap::Default::Storable
+Updating KiokuDB::Util
+Updating IO::Lambda::Loop::Select
+Updating Parse::Eyapp::Treeregexp
+Updating SOAP::WSDL::XSD::Typelib::Builtin::anySimpleType
+Updating DC::Pod
+Updating Wx::DropSource
+Updating BerkeleyDB::Manager
+Updating KiokuDB::Test::Fixture::Small
+Updating Net::EPP::Frame::Command::Transfer
+Updating HTML::FormFu::Constraint::AutoSet
+Updating Apache2::ASP::Request
+Updating SQL::Translator::Parser::PostgreSQL
+Updating HTML::FormFu::Element::reCAPTCHA
+Updating SQL::Translator::Producer::POD
+Updating HTML::FormFu::QueryType::CGI
+Updating SOAP::WSDL::SOAP::Operation
+Updating ClearPress::util
+Updating YAML::Loader::Base
+Updating SOAP::WSDL::PortType
+Updating Net::EPP::Frame::Command::Info
+Updating LWP::Protocol::nntp
+Updating HTTP::Session::ID::SHA1
+Updating Bio::Das::ProServer::SourceAdaptor::grouped_db
+Updating Wx::ArtProvider
+Updating LWP::Protocol::gopher
+Updating SQL::Translator::Schema::Index
+Updating Apache2::ASP::MediaManager
+Updating Generate
+Updating Net::BitTorrent::Version
+Updating Apache2::ASP::ConfigParser
+Updating CatalystX::CRUD::Model
+Updating SOAP::WSDL::Operation
+Updating CatalystX::CRUD::REST
+Updating CatalystX::CRUD::ModelAdapter
+Updating SOAP::WSDL::XSD::MaxLength
+Updating KiokuDB::Set::Transient
+Updating SQL::Translator::Parser::Excel
+Updating SOAP::WSDL::XSD::Typelib::Builtin::base64Binary
+Updating CatalystX::CRUD::Test::Form
+Updating SOAP::WSDL::Factory::Transport
+Updating HTML::TurboForm::Element::Submit
+Updating Business::ISBN::Data
+Updating Mouse::Util
+Updating Wx::FS
+Updating Wx::build::MakeMaker::Core
+Updating SOAP::WSDL::XSD::SimpleType
+Updating SOAP::WSDL::XSD::Typelib::Builtin::NOTATION
+Updating LWP::Protocol::http
+Updating DBIx::Compare
+Updating KiokuDB::Test::Fixture::ObjectGraph
+Updating Bundle::LWP
+Info from CPAN::SQLite::Populate::auths: No author data to delete
+Deleting Text-CSV-DetectSeparator
+Deleting Acme-Fitness
+Deleting Bio-FastaStream
+Deleting Net::EPP::Client
+Deleting Data::ParseBinary::lib::GraphicsWMF
+Deleting Net::EPP::Frame::ObjectSpec
+Deleting Data::ParseBinary::lib::ExecELF32
+Deleting Net::EPP::Simple
+Deleting Net::EPP::ResponseCodes
+Deleting KiokuDB::Cmd::Load
+Deleting KiokuDB::Cmd::Dump
+Deleting Data::ParseBinary::lib::GraphicsEMF
+Deleting Data::ParseBinary::lib::ExecPE32
+Deleting Data::ParseBinary::lib::DataCap
+Deleting Data::ParseBinary::lib::GraphicsPNG
+Deleting Data::ParseBinary::lib::GraphicsBMP
+Deleting Data::ParseBinary::lib::FileSystemMbr
+Deleting Net::EPP::Frame

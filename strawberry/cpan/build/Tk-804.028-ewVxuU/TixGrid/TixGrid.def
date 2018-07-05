@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__TixGrid
+  _boot_Tk__TixGrid = boot_Tk__TixGrid
+  

@@ -1,0 +1,822 @@
+Reading information from C:\strawberry\cpan\sources\authors\01mailrc.txt.gz
+Reading information from C:\strawberry\cpan\sources\modules\03modlist.data.gz
+Reading information from C:\strawberry\cpan\sources\modules\02packages.details.txt.gz
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/ValueTree.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/Simple.pm.gz: skipping
+No dist_name/version/cpanid for I/IL/ILYAZ/os2/582+/perl_mlb.zip: skipping
+No dist_name/version/cpanid for K/KD/KDOULEPOV/Convert-Cyr.tar.gz: skipping
+No dist_name/version/cpanid for H/HU/HUGHES/manish-db.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/PwTree.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/RevHash.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/ADVLABS/net/TCP/Client.pm.gz: skipping
+No dist_name/version/cpanid for S/SR/SRIRAM/examples.tar.gz: skipping
+No dist_name/version/cpanid for J/JA/JACKS/Prolog-alpha.tar.gz: skipping
+No dist_name/version/cpanid for J/JP/JPDURRIOS/FServer.tar.gz: skipping
+No dist_name/version/cpanid for H/HA/HAKANARDO/Math-Expr-LATEST.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/ADVLABS/timeouts/TimeOut.pm.gz: skipping
+No dist_name/version/cpanid for C/CC/CCLOUTIER/Notes/Notes.zip: skipping
+No dist_name/version/cpanid for A/AD/ADIRAJ/CGI-Widget-FilloutForm.tar.gz: skipping
+No dist_name/version/cpanid for C/CY/CYGA/Acme-URM.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/BinTree.pm.gz: skipping
+No dist_name/version/cpanid for J/JC/JCTEBBAL/rms.zip: skipping
+No dist_name/version/cpanid for J/JE/JEFF/CGISession.tar.gz: skipping
+No dist_name/version/cpanid for C/CH/CHI/link_NCBI.zip: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/queues/strpris/Queue.pm.gz: skipping
+No dist_name/version/cpanid for R/RO/ROBINBANK/UDPServersAndClients.zip: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/whenon.dir/LastLog/Entry.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/RevRefHash.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/Folded.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Counter.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/PwdOb.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/NTree.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/whenon.dir/LastLog/File.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/ThreadTree.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/CLR/Tree/Binary.pm.gz: skipping
+No dist_name/version/cpanid for H/HA/HARRY/Text-Convert-ToImage.tgz: skipping
+No dist_name/version/cpanid for J/JA/JACKS/IPC_SysV.tar.gz: skipping
+No dist_name/version/cpanid for P/PS/PSIONIC/tic/tic.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/modules/String/Edit.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/UnderScore.pm.gz: skipping
+No dist_name/version/cpanid for M/MI/MICB/AuthenIMAP.pm.gz: skipping
+No dist_name/version/cpanid for Q/QU/QUATRIX/Nagios-Downtime.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/TreeHash.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/ADVLABS/binstuff/SYS/lastlog.pm.gz: skipping
+No dist_name/version/cpanid for S/ST/STRYTOAST/bid.tar.gz: skipping
+No dist_name/version/cpanid for J/JE/JETTRA/RSS-Video-Google.tar.gz: skipping
+No dist_name/version/cpanid for J/JC/JCTEBBAL/smg.zip: skipping
+No dist_name/version/cpanid for V/VI/VIDUL/swd.tar.gz: skipping
+No dist_name/version/cpanid for S/ST/STRYTOAST/log.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/AppendHash.pm.gz: skipping
+No dist_name/version/cpanid for S/ST/STRYTOAST/lot.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrNum.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/web/Proxy/HTML.pm.gz: skipping
+No dist_name/version/cpanid for T/TY/TYEMQ/FileKGlob.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/ties/Tie/ClockTimer.pm.gz: skipping
+No dist_name/version/cpanid for G/GU/GUYDX/Table.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StrTree.pm.gz: skipping
+No dist_name/version/cpanid for G/GW/GWORROLL/BitArray1-0.tar.gz: skipping
+No dist_name/version/cpanid for D/DO/DODGER/WebPresence/WebPresence-Profile.tar.gz: skipping
+No dist_name/version/cpanid for M/MU/MUIR/scripts/frogbak.tar.gz: skipping
+No dist_name/version/cpanid for H/HA/HAKANARDO/DBIx-HTMLView-LATEST.tar.gz: skipping
+No dist_name/version/cpanid for M/MU/MUIR/modules/Ref.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/queues/strpris/PriQueue.pm.gz: skipping
+No dist_name/version/cpanid for C/CE/CECALA/CECALA.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/ADVLABS/rprint/pref.pm.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/CS-Talk/source/dstructs/trees/StupidTree.pm.gz: skipping
+No dist_name/version/cpanid for F/FE/FERNANDES/Reduziguais.zip: skipping
+No dist_name/version/cpanid for G/GS/GSEAMAN/XML-DB.tar.gz: skipping
+No dist_name/version/cpanid for T/TO/TOMC/scripts/ADVLABS/nice/Nice.pm.gz: skipping
+Will delete Acme-BabyEater
+Will delete CGI-Persist
+Will delete WWW-Search-Jarit
+Will delete Padre-Plugin-HTML-Export
+Inserting author ROTKRAUT
+Inserting author SILASMONK
+Inserting GD-Sparkline of RPETTETT
+Inserting Log-Dispatch-Channels of DOY
+Inserting Geo-OSM-Tiles of ROTKRAUT
+Inserting Class-C3-Adopt-NEXT of FLORA
+Inserting YAML-Old of INGY
+Inserting Path-Class-URI of MIYAGAWA
+Inserting MySQL-SlowLog-Filter of FAYLAND
+Inserting YAML-Shell of INGY
+Inserting DBIx-Class-DeleteAction of MAROS
+Inserting Statistics-KernelEstimation of JANERT
+Inserting DBIx-MySperqlOO of ROGERHALL
+Inserting Net-LastFM of LBROCARD
+Inserting Math-StochasticProcess of SILASMONK
+Inserting Wx-Perl-PodEditor of RENEEB
+Inserting MooseX-Role-Parameterized of SARTAK
+Inserting Daemonise of AJDIXON
+Inserting Gtk2-Ex-TiedListColumn of KRYDE
+Inserting RDR-Collector of SHAMROCK
+Inserting YAML-Manual of INGY
+Inserting App-Wx-PodEditor of RENEEB
+Updating author STRZELEC
+Updating author MMIMS
+Updating author MIYAGAWA
+Updating author YAMAMOTO
+Updating author TOMMY
+Updating author SHAMROCK
+Updating author POTYL
+Updating author SZABGAB
+Updating author GPHAT
+Updating author YAPPO
+Updating author DSTAAL
+Updating author KRYDE
+Updating author JANERT
+Updating author ROGERHALL
+Updating author HINNERK
+Updating author ABW
+Updating author KARMAN
+Updating author MLEHMANN
+Updating author FAYLAND
+Updating author LEOCHARRE
+Updating author ILMARI
+Updating author SARTAK
+Updating author MAROS
+Updating author MARKPASC
+Updating author DAMI
+Updating author ROBMAN
+Updating author BAYASHI
+Updating author MRAMBERG
+Updating author BRICAS
+Updating author ASHLEY
+Updating author SREZIC
+Updating author SANKO
+Updating author MTHURN
+Updating author GFUJI
+Updating author DOY
+Updating author CASIANO
+Updating author RPETTETT
+Updating author JESSE
+Updating author HOLGER
+Updating author SMUELLER
+Updating author FLORA
+Updating author SERA
+Updating author SALVA
+Updating author JOSEPHW
+Updating author LBROCARD
+Updating author RSAVAGE
+Updating author SRI
+Updating author SIMCOP
+Updating author RENEEB
+Updating author GROMMIER
+Updating author RJBS
+Updating author AJDIXON
+Updating author INGY
+Updating author ASAVIGE
+Updating author GSLONDON
+Updating author CJONES
+Updating author BOSU
+Updating author EKAWAS
+Updating author JOHND
+Updating author AGRUNDMA
+Updating author JLMARTIN
+Updating author GBARR
+Updating WSRF-Lite of EKAWAS
+Updating YAML of INGY
+Updating XML-Writer of JOSEPHW
+Updating DBIx-MySperql of ROGERHALL
+Updating Devel-FindRef of MLEHMANN
+Updating Class-XSAccessor-Array of SMUELLER
+Updating Email-Blaster of JOHND
+Updating Search-Tools of KARMAN
+Updating Music-Chord-Note of BAYASHI
+Updating Gtk2-Ex-ListModelConcat of KRYDE
+Updating WebService-Backlog of YAMAMOTO
+Updating Chart-Clicker of GPHAT
+Updating Image-Imlib2 of LBROCARD
+Updating Tk-XMLViewer of SREZIC
+Updating Parse-Eyapp of CASIANO
+Updating Module-PortablePath of RPETTETT
+Updating Catalyst-Plugin-Geography of MRAMBERG
+Updating Mail-Log-Exceptions of DSTAAL
+Updating YAML-DBH of LEOCHARRE
+Updating CGI-IDS of HINNERK
+Updating Log-Facile of SERA
+Updating Module-Install-ExtraTests of RJBS
+Updating Mail-Log-Parse of DSTAAL
+Updating Data-Util of GFUJI
+Updating MOBY of EKAWAS
+Updating Padre-Plugin-CPAN of FAYLAND
+Updating File-Util of TOMMY
+Updating Catalyst-Authentication-Credential-OpenID of ASHLEY
+Updating Badger of ABW
+Updating E-Mail-Acme of RJBS
+Updating Geo-IPfree of BRICAS
+Updating Nagios-Plugin of HOLGER
+Updating Nagios-Plugin-DieNicely of JLMARTIN
+Updating CatalystX-CRUD-YUI of KARMAN
+Updating SOAPjr of ROBMAN
+Updating Padre of SZABGAB
+Updating Mail-Log-Trace of DSTAAL
+Updating Beanstalk-Client of GBARR
+Updating DBIx-Class-InflateColumn-FS of MMIMS
+Updating Text-Editor-Easy of GROMMIER
+Updating DBIx-Compare of CJONES
+Updating Acme-Tpyo of SIMCOP
+Updating Mojo of SRI
+Updating WWW-Vox of MARKPASC
+Updating HTTP-Engine of YAPPO
+Updating Config-Properties of SALVA
+Updating Parse-Gnaw of GSLONDON
+Updating Xacobeo of POTYL
+Updating Class-Unload of ILMARI
+Updating WWW-Search-Ebay of MTHURN
+Updating Acme-EyeDrops of ASAVIGE
+Updating Net-Amazon-S3 of LBROCARD
+Updating HTML-Tested-ClassDBI of BOSU
+Updating Apache2-ASP of JOHND
+Updating Passwd-Unix of STRZELEC
+Updating Search-InvertedIndex-Simple-BerkeleyDB of RSAVAGE
+Updating Net-BitTorrent of SANKO
+Updating HTTP-Body of AGRUNDMA
+Updating Bio-Das-Lite of RPETTETT
+Updating DBIx-DataModel of DAMI
+Updating HTTP-Server-Simple-Mason of JESSE
+Updating MOBY-Client of EKAWAS
+Updating Class-XSAccessor of SMUELLER
+Updating Padre::Wx::Print::Printout
+Updating CatalystX::CRUD::YUI::LiveGrid
+Updating Padre::Pod2HTML
+Updating Email::Blaster::Config
+Updating HTTP::Engine::Interface
+Updating HTTP::Engine::Role::ResponseWriter::WriteSTDOUT
+Updating DBIx::DataModel::View
+Updating MOBY::Config
+Updating Text::Editor::Easy::File_manager
+Updating WebService::Backlog::Priority
+Updating CGI::IDS
+Updating Apache2::ASP::Test::Fixtures
+Updating Badger::Codec::Encoding
+Updating Mojo::Path
+Updating CatalystX::CRUD::YUI::TT
+Updating Catalyst::Authentication::Credential::OpenID
+Updating MOBY::RDF::Predicates::DC_PROTEGE
+Updating Text::Editor::Easy::Program::Open_editor
+Updating Padre::Document::PASM
+Updating Padre::Util
+Updating Badger::Class
+Updating Apache2::ASP::Config
+Updating DBIx::DataModel::Statement::JDBC
+Updating Text::Editor::Easy::Program::Search
+Updating HTTP::Engine::Role::ResponseWriter::OutputBody
+Updating MOBY::Admin
+Updating Mojo::Filter::Chunked
+Updating MOBY::RDF::Ontologies::ServiceTypes
+Updating Log::Facile
+Updating WWW::Search::Ebay::ByEndDate
+Updating CatalystX::CRUD::YUI::TT::crud
+Updating Badger::Filesystem::Directory
+Updating WWW::Search::Ebay::Motors
+Updating Badger::Factory
+Updating MOBY::RDF::Predicates::RDF
+Updating Net::Amazon::S3::Bucket
+Updating Text::Editor::Easy::Cursor
+Updating Padre::Wx::Dialog
+Updating Text::Editor::Easy::Syntax::Perl_glue
+Updating Padre::DB
+Updating HTTP::Body::UrlEncoded
+Updating Search::Tools::RegExp
+Updating Music::Chord::Note
+Updating MojoX::Routes
+Updating Mojo::Base
+Updating Services::LocalServices
+Updating Badger::Filesystem::File
+Updating MOBY::Client::SimpleInput
+Updating MOBY
+Updating Text::Editor::Easy::Comm
+Updating Padre::Wx::Popup
+Updating WebService::Backlog::Status
+Updating Padre::Wx::Output
+Updating SOAPjr
+Updating Apache2::ASP::TransHandler
+Updating Parse::Eyapp::Parse
+Updating DBIx::Class::InflateColumn::FS::ResultSet
+Updating Chart::Clicker::Renderer
+Updating Badger::Constants
+Updating Net::Amazon::S3::Request::CreateBucket
+Updating HTTP::Engine::Interface::ServerSimple
+Updating Search::Tools::Object
+Updating Data::Util::Error
+Updating Net::Amazon::S3::Request::GetObjectAccessControl
+Updating Padre::Wx::Dialog::PluginManager
+Updating MOBY::RDF::Utils
+Updating Text::Editor::Easy::Line
+Updating Chart::Clicker::Container
+Updating Beanstalk::Job
+Updating Class::XSAccessor::Array
+Updating Search::Tools::Keywords
+Updating Badger::Codec::Chain
+Updating HTTP::Engine::Role::RequestBuilder::ReadBody
+Updating Badger::Factory::Class
+Updating Padre::Wx::DNDFilesDropTarget
+Updating E::Mail::Acme
+Updating WebService::Backlog::FindCondition
+Updating MOBY::central_db_connection
+Updating Apache2::ASP::ApplicationStateManager::MySQL
+Updating MOBY::Client::Registration
+Updating Email::Blaster::Model
+Updating Padre::Wx::Dialog::ModuleStart
+Updating Mojo::File
+Updating YAML::Dumper::Base
+Updating WebService::Backlog
+Updating Gtk2::Ex::ListModelConcat
+Updating Module::Install::ExtraTests
+Updating Parse::Eyapp::Output
+Updating Chart::Clicker::Data::Range
+Updating Net::Amazon::S3::Request
+Updating HTTP::Engine::Role::RequestBuilder::HTTPBody
+Updating HTTP::Body::OctetStream
+Updating WWW::Vox::Auth::Cookies
+Updating Email::Blaster::EventHandler
+Updating Chart::Clicker::Data::DataSet
+Updating MOBY::collection_output
+Updating T
+Updating Mojo::Home
+Updating Email::Blaster::Throttled
+Updating Padre::Plugin::Devel
+Updating Email::Blaster::Recipient
+Updating Apache2::ASP::Response
+Updating Email::Blaster::Event
+Updating Mojo::Buffer
+Updating YAML::Dumper
+Updating DBIx::DataModel::Table
+Updating SOAPjr::base
+Updating Apache2::ASP::SessionStateManager
+Updating Net::Amazon::S3::Request::ListBucket
+Updating YAML::DBH
+Updating WWW::Search::Ebay::BySellerID
+Updating Search::Tools::Transliterate
+Updating Mojo::Date
+Updating Apache2::ASP::Test::UploadObject
+Updating Bio::Das::Lite::UserAgent
+Updating Email::Blaster::TransmissionEndHandler
+Updating Chart::Clicker::Renderer::Measurement
+Updating MojoX::Routes::Pattern
+Updating Catalyst::Plugin::Geography
+Updating YAML::Error
+Updating Geo::IPfree
+Updating Class::Unload
+Updating HTTP::Engine::Interface::POE
+Updating MOBY::Async::SimpleServer
+Updating Chart::Clicker::Renderer::Line
+Updating Chart::Clicker
+Updating HTTP::Engine::Role::RequestBuilder::ParseEnv
+Updating Search::Tools::RegExp::Keywords
+Updating YAML::Base
+Updating Parse::Eyapp::Base
+Updating Mojo::ByteStream
+Updating WSRF::SSLDaemon
+Updating Parse::Eyapp::Lalr
+Updating WebService::Backlog::Version
+Updating Text::Editor::Easy::Window
+Updating Apache2::ASP::Server
+Updating Mojolicious::Context
+Updating Mojo::URL
+Updating Nagios::Plugin
+Updating Mojolicious::Script::Generate::App
+Updating Apache2::ASP::UploadHook
+Updating Email::Blaster
+Updating MOBY::RDF::Predicates::FETA
+Updating MOBY::Client::OntologyServer
+Updating Padre
+Updating MOBY::RDF::Predicates::OMG_LSID
+Updating Mojo::Script::Generate
+Updating Chart::Clicker::Axis
+Updating Chart::Clicker::Decoration::LegendItem
+Updating Apache2::ASP::ApplicationStateManager::SQLite
+Updating MojoX::Dispatcher::Routes::Context
+Updating WWW::Vox::Asset
+Updating Mail::Log::Parse::Postfix
+Updating Padre::Wx::Dialog::Snippets
+Updating Email::Blaster::TransmissionInitHandler
+Updating File::Util
+Updating MOBY::RDF::Ontologies::Services
+Updating MOBY::service_type
+Updating HTTP::Server::Simple::Mason
+Updating Mojo::Server
+Updating Padre::Wx::ToolBar
+Updating Email::Blaster::Model::SQLite
+Updating WebService::Backlog::Project
+Updating MojoX::Dispatcher::Routes::Controller
+Updating Mail::Log::Trace
+Updating MOBY::Adaptor::moby::DataAdapterI
+Updating Chart::Clicker::Decoration::Grid
+Updating WebService::Backlog::Issue
+Updating HTTP::Engine::Interface::ModPerl
+Updating Mail::Log::Trace::Postfix
+Updating Apache2::ASP::RequestFilter
+Updating MOBY::Client::Exception::MobyException
+Updating Text::Editor::Easy::Program::Eval::Print
+Updating MOBY::Adaptor::moby::Impl::ServiceInstanceDataAdapter
+Updating Net::Amazon::S3::Request::GetObject
+Updating Xacobeo::Document
+Updating Net::Amazon::S3::Client::Object
+Updating Chart::Clicker::Component
+Updating Badger
+Updating HTTP::Engine::Interface::Standalone
+Updating Test::YAML
+Updating Email::Blaster::Sendlog
+Updating Apache2::ASP::GlobalASA
+Updating Badger::Mixin
+Updating Parse::Eyapp
+Updating Badger::Codec::Storable
+Updating Mojo::Headers
+Updating HTML::Tested::ClassDBI::Field
+Updating HTTP::Engine::RequestBuilder::NoEnv
+Updating WebService::Backlog::Component
+Updating Mojolicious::Scripts
+Updating Badger::Test::Manager
+Updating Xacobeo
+Updating WWW::Vox::SearchResult
+Updating Apache2::ASP::Test::Base
+Updating Mojo::Server::Daemon
+Updating Badger::Codec::Unicode
+Updating WWW::Vox::Auth
+Updating Email::Blaster::MailSender
+Updating Chart::Clicker::Renderer::Area
+Updating Badger::Prototype
+Updating MOBY::RDF::Ontologies::Cache::ServiceCache
+Updating Mojo::Script::Fastcgi
+Updating MOBY::Client::ServiceInstance
+Updating Text::Editor::Easy::Data
+Updating Email::Blaster::MaillogWatcher::Postfix
+Updating Search::Tools::RegExp::Keyword
+Updating DBIx::DataModel
+Updating Mojo::Content::MultiPart
+Updating DBIx::Compare::Pg
+Updating MOBY::Adaptor::moby::Impl::NamespaceDataAdapter
+Updating MOBY::RDF::Predicates::OWL
+Updating Apache2::ASP::SessionStateManager::SQLite
+Updating Devel::FindRef
+Updating MOBY::dbConfig
+Updating Padre::Wx::Project
+Updating HTTP::Engine::Response
+Updating Padre::Wx
+Updating WebService::Backlog::IssueType
+Updating Chart::Clicker::Decoration::Plot
+Updating MOBY::Adaptor::moby::queryapi
+Updating Badger::Codec::YAML
+Updating Padre::Project
+Updating Net::Amazon::S3::Client::Bucket
+Updating Mojo::Cookie
+Updating WebService::Backlog::SwitchStatus
+Updating Mojo::Script::Generate::App
+Updating DBIx::DataModel::Base
+Updating Chart::Clicker::Data::Series
+Updating Bio::DasLite
+Updating Search::Tools::XML
+Updating Padre::Document
+Updating HTML::Tested::ClassDBI::Upload
+Updating HTTP::Engine
+Updating Nagios::Plugin::Threshold
+Updating CatalystX::CRUD::YUI::View
+Updating Net::Amazon::S3::Client
+Updating Parse::Gnaw
+Updating WWW::Search::Ebay::Stores
+Updating YAML::Tag
+Updating WebService::Backlog::Resolution
+Updating Padre::Plugin::Vi::CommandLine
+Updating HTTP::Engine::Role::ResponseWriter
+Updating Tail
+Updating Padre::Wx::App
+Updating Chart::Clicker::Renderer::StackedBar
+Updating MOBY::mysql
+Updating MOBY::Async::WSRF
+Updating Parse::Eyapp::Options
+Updating Badger::Utils
+Updating MOBY::Adaptor::moby::DataAccessI
+Updating Email::Blaster::ConfigNode::Throttled
+Updating Catalyst::Plugin::Geography::Implementation
+Updating Xacobeo::DomModel
+Updating MOBY::simple_output
+Updating Nagios::Plugin::ExitResult
+Updating Chart::Clicker::Data::Marker
+Updating HTML::Tested::ClassDBI
+Updating Padre::Documents
+Updating Parse::Eyapp::YATW
+Updating MOBY::Client::Service
+Updating Mojo::Server::CGI
+Updating Mojo::Server::Daemon::Prefork
+Updating YAML::Marshall
+Updating Padre::Wx::MainWindow
+Updating WebService::Backlog::Comment
+Updating Email::Blaster::StartupHandler
+Updating Padre::PluginBuilder
+Updating Text::Editor::Easy
+Updating Chart::Clicker::Shape
+Updating WWW::Vox::Error
+Updating WSRF::Lite
+Updating Text::Editor::Easy::Program::Tab
+Updating MOBY::RDF::Ontologies::Cache::ObjectCache
+Updating Padre::Wx::Ack
+Updating MOBY::Adaptor::moby::Impl::ServiceTypeDataAdapter
+Updating Padre::Project::Perl
+Updating HTTP::Engine::Role::Interface
+Updating DBIx::Compare::Oracle
+Updating Test::Mojo::Server
+Updating WWW::Search::Ebay
+Updating Padre::Plugin
+Updating MojoX::Routes::Match
+Updating HTTP::Engine::Role::ResponseWriter::ResponseLine
+Updating MOBY::RDF::Ontologies::Cache::NamespaceCache
+Updating Text::Editor::Easy::Key
+Updating HTTP::Engine::Types::Core
+Updating Mojolicious::Script::Daemon
+Updating Search::Tools::SpellCheck
+Updating MOBYXSLT
+Updating Email::Blaster::TransmissionBeginHandler
+Updating Tk::XMLViewer
+Updating MOBY::authority
+Updating WWW::Search::Ebay::Auctions
+Updating CatalystX::CRUD::YUI
+Updating Mojo::Script::Cgi
+Updating SOAPjr::request
+Updating Acme::Tpyo
+Updating Data::Util::PurePerl
+Updating Data::Util
+Updating Beanstalk::Client
+Updating Net::Amazon::S3::Request::SetBucketAccessControl
+Updating MOBY::service_instance
+Updating Email::Blaster::Event::Type
+Updating HTTP::Engine::Role::ResponseWriter::Finalize
+Updating Net::BitTorrent
+Updating MOBY::RDF::Predicates::RDFS
+Updating Apache2::ASP::SimpleCGI
+Updating Chart::Clicker::Renderer::Bubble
+Updating Padre::Wx::History::TextDialog
+Updating Mojolicious::Script::Test
+Updating Text::Editor::Easy::Motion
+Updating MOBY::RDF::Parsers::NamespaceParser
+Updating Parse::Eyapp::_TreeregexpSupport
+Updating Badger::Codec::Base64
+Updating Mojo::Cookie::Response
+Updating MOBY::collection_input
+Updating Net::Amazon::S3::HTTPRequest
+Updating Badger::Rainbow
+Updating WebService::Backlog::UpdateIssue
+Updating Padre::Wx::Dialog::Find
+Updating MOBY::secondary_input
+Updating WWW::Vox::Collection
+Updating Apache2::ASP
+Updating HTTP::Body::XFormsMultipart
+Updating Padre::Pod::Frame
+Updating HTTP::Engine::Interface::Test
+Updating Padre::Document::JavaScript
+Updating Apache2::ASP::ApplicationStateManager
+Updating Mojo::Content
+Updating Badger::Codec::URI
+Updating HTTP::Engine::Role::Request
+Updating Parse::Eyapp::Cleaner
+Updating Mojolicious::Controller
+Updating Badger::Test
+Updating Mojo::HelloWorld
+Updating MOBY::Adaptor::moby::Impl::ObjectDataAdapter
+Updating Mojolicious
+Updating WWW::Search::Ebay::BuyItNow
+Updating Badger::Codec::JSON
+Updating Padre::PluginManager
+Updating Badger::Filesystem::Virtual
+Updating MOBY::CrossReference
+Updating Text::Editor::Easy::Abstract
+Updating Padre::Plugin::CPAN
+Updating Mojo::Message::Response
+Updating MOBY::Central
+Updating MojoX::Dispatcher::Routes
+Updating Padre::Wx::Menu::Help
+Updating Net::Amazon::S3::Request::DeleteObject
+Updating Badger::Codec
+Updating Padre::Config
+Updating Email::Blaster::BounceHandler
+Updating Text::Editor::Easy::Zone
+Updating MOBY::Async::Service
+Updating HTTP::Body
+Updating HTTP::Engine::Role::Response
+Updating HTTP::Body::MultiPart
+Updating Search::Tools::UTF8
+Updating Padre::Plugin::My
+Updating Padre::Autosave
+Updating Search::InvertedIndex::Simple::BerkeleyDB
+Updating Tail2
+Updating Parse::Eyapp::Driver
+Updating Mojo::Cookie::Request
+Updating Search::Tools::Snipper
+Updating Badger::Codec::Encode
+Updating Apache2::ASP::UploadHookArgs
+Updating Mojo::Template
+Updating Search::Tools
+Updating MojoX::Dispatcher::Static
+Updating Mail::Log::Exceptions
+Updating Padre::Wx::Dialog::Bookmarks
+Updating Mojolicious::Renderer
+Updating Module::PortablePath
+Updating Apache2::ASP::Test::UserAgent
+Updating Mojolicious::Script::Mojo
+Updating Mojo::Transaction
+Updating Parse::Eyapp::Grammar
+Updating Mojo::File::Memory
+Updating Email::Blaster::Model::MySQL
+Updating DBIx::Compare::SQLite
+Updating Mojo::Script::Daemon
+Updating Text::Editor::Easy::Program::Flush
+Updating MOBY::OntologyServer
+Updating Badger::Base
+Updating Mojo::Scripts
+Updating DBIx::DataModel::Statement
+Updating Email::Blaster::ShutdownHandler
+Updating Mojolicious::Dispatcher
+Updating Padre::Plugin::Vi::Editor
+Updating Text::Editor::Easy::Program::Eval::Exec
+Updating Net::Amazon::S3::Request::DeleteBucket
+Updating MOBY::Client::CollectionArticle
+Updating MOBY::CommonSubs
+Updating Padre::Wx::Menu
+Updating Padre::Wx::Editor
+Updating Padre::Plugin::JavaScript
+Updating Mail::Log::Parse
+Updating HTTP::Engine::Role::RequestBuilder::Standard
+Updating HTTP::Engine::Interface::FCGI
+Updating Chart::Clicker::Drawing::ColorAllocator
+Updating Email::Blaster::ClusteredShutdownHandler
+Updating Mojo::Loader
+Updating Padre::Document::PIR
+Updating MojoX::Renderer
+Updating Apache2::ASP::FormHandler
+Updating Badger::Exporter
+Updating MOBY::RDF::Ontologies::Namespaces
+Updating Padre::Wx::Dialog::Search
+Updating MojoX::Types
+Updating Padre::Wx::Pod2HTML
+Updating Chart::Clicker::Renderer::Pie
+Updating Mojo
+Updating Email::Blaster::MaillogWatcher
+Updating Badger::Filesystem
+Updating Email::Blaster::MessageBouncedHandler
+Updating Mojo::Stateful
+Updating Padre::Pod::Viewer
+Updating Badger::Exception
+Updating Padre::Document::Perl
+Updating Nagios::Plugin::Functions
+Updating Email::Blaster::ConfigNode
+Updating MOBY::Client::Exception::MobyExceptionCodes
+Updating Nagios::Plugin::DieNicely
+Updating Mojo::Filter
+Updating Chart::Clicker::Decoration::MarkerOverlay
+Updating Math::Tail
+Updating Chart::Clicker::Renderer::Bar
+Updating Badger::Filesystem::Visitor
+Updating Search::Tools::HiLiter
+Updating Net::Amazon::S3::Request::ListAllMyBuckets
+Updating Mojo::Message::Request
+Updating DBIx::DataModel::Schema::Generator
+Updating Chart::Clicker::Data::Series::Size
+Updating SOAPjr::message
+Updating Chart::Clicker::Decoration::Glass
+Updating Mojo::Message
+Updating HTTP::Engine::Role::RequestBuilder::NoEnv
+Updating MOBY::Client::SimpleArticle
+Updating MOBY::Async::LSAE
+Updating Net::Amazon::S3::Request::GetBucketAccessControl
+Updating Net::Amazon::S3::Request::PutObject
+Updating Passwd::Unix
+Updating Chart::Clicker::Axis::DateTime
+Updating Email::Blaster::ClusteredStartupHandler
+Updating Parse::Gnaw::Decomment
+Updating Padre::Wx::History::ComboBox
+Updating WebService::Backlog::CreateIssue
+Updating Text::Editor::Easy::Abstract::Key
+Updating DBIx::DataModel::Source
+Updating Acme::EyeDrops
+Updating MOBY::simple_input
+Updating YAML::Loader
+Updating Padre::Pod::Indexer
+Updating Nagios::Plugin::Getopt
+Updating MOBY::RDF::Parsers::DatatypeParser
+Updating Badger::Codecs
+Updating Chart::Clicker::Context
+Updating Email::Blaster::Transmission
+Updating Chart::Clicker::Renderer::Point
+Updating MOBY::Adaptor::moby::queryapi::mysql
+Updating Apache2::ASP::SessionStateManager::MySQL
+Updating YAML::Types
+Updating Apache2::ASP::UploadHandler
+Updating CatalystX::CRUD::YUI::Serializer
+Updating Parse::Eyapp::Node
+Updating Padre::Plugin::Vi
+Updating Padre::Document::Perl6
+Updating Mojo::Server::FastCGI
+Updating Net::Amazon::S3::Request::GetBucketLocationConstraint
+Updating Net::Amazon::S3
+Updating CatalystX::CRUD::YUI::Excel
+Updating Text::Editor::Easy::Display
+Updating MOBY::MobyXMLConstants
+Updating HTTP::Engine::Interface::CGI
+Updating Class::XSAccessor
+Updating Bio::Das::Lite
+Updating Badger::Config
+Updating DBIx::DataModel::Schema
+Updating DBIx::Class::InflateColumn::FS
+Updating Net::Amazon::S3::Request::SetObjectAccessControl
+Updating YAML::Node
+Updating Padre::Wx::Dialog::Preferences
+Updating Config::Properties
+Updating YAML
+Updating Mojo::Script::DaemonPrefork
+Updating Email::Blaster::ConfigNode::Cluster
+Updating HTTP::Engine::RequestBuilder::CGI
+Updating Email::Blaster::Model::Dynamic
+Updating Chart::Clicker::Decoration::Legend
+Updating Email::Blaster::StandAlone
+Updating Nagios::Plugin::Range
+Updating Mojo::Upload
+Updating HTTP::Engine::ResponseFinalizer
+Updating Padre::PPI
+Updating DBIx::Compare::mysql
+Updating WebService::Backlog::User
+Updating Parse::Eyapp::Treeregexp
+Updating Padre::Wx::Print
+Updating CatalystX::CRUD::YUI::Controller
+Updating MOBY::RDF::Predicates::MOBY_PREDICATES
+Updating MOBY::RDF::Parsers::ServiceTypeParser
+Updating Email::Blaster::ConfigLoader
+Updating MOBY::Services::HelloWorldService
+Updating SOAPjr::response
+Updating HTTP::Engine::Role::RequestBuilder
+Updating HTTP::Body::XForms
+Updating WWW::Vox
+Updating Mojo::Script::Test
+Updating Apache2::ASP::Request
+Updating Badger::Hub
+Updating MOBY::Client::SecondaryArticle
+Updating Nagios::Plugin::Performance
+Updating MOBY::SOAP::Serializer
+Updating YAML::Loader::Base
+Updating MOBY::Client::Central
+Updating Net::BitTorrent::Util
+Updating Parse::Eyapp::Scope
+Updating Chart::Clicker::Decoration
+Updating Mojolicious::Script::Generate
+Updating XML::Writer
+Updating Apache2::ASP::MediaManager
+Updating DBIx::MySperql
+Updating HTTP::Engine::Request::Upload
+Updating Badger::Debug
+Updating Mojo::Client
+Updating MOBY::RDF::Ontologies::Cache::CacheUtils
+Updating HTTP::Engine::Request
+Updating Mojo::Script
+Updating Chart::Clicker::Positioned
+Updating Email::Abstract::EMailAcme
+Updating Badger::Filesystem::Path
+Updating Beanstalk::Stats
+Updating Padre::Wx::RightClick
+Updating DBIx::Compare
+Updating Email::Blaster::MessageAssembler
+Updating MOBY::RDF::Ontologies::Objects
+Updating Mojo::Parameters
+Updating MOBY::RDF::Ontologies::Cache::ServiceTypeCache
+Updating Email::Blaster::Clustered
+Updating Image::Imlib2
+Info from CPAN::SQLite::Populate::auths: No author data to delete
+Deleting CGI-Persist
+Deleting WWW-Search-Jarit
+Deleting Acme-BabyEater
+Deleting Padre-Plugin-HTML-Export
+Deleting MOBY::RDF::Predicates::RDFS
+Deleting MOBY::Client::SecondaryArticle
+Deleting MOBY::Async::SimpleServer
+Deleting Net::BitTorrent::DHT::Node::Mainline
+Deleting Net::BitTorrent::DHT
+Deleting Net::BitTorrent::Session::Piece
+Deleting Apache2::ASP::DOM::Parser
+Deleting Badger::Class::Defaults
+Deleting MOBY::RDF::Parsers::NamespaceParser
+Deleting Net::BitTorrent::DHT::Node::Azureus
+Deleting MOBY::Client::CollectionArticle
+Deleting MOBY::Client::Exception::MobyExceptionCodes
+Deleting MOBY::Client::Central
+Deleting MOBY::CommonSubs
+Deleting MOBY::Client::ServiceInstance
+Deleting Apache2::ASP::DOM::Document
+Deleting MOBY::RDF::Parsers::DatatypeParser
+Deleting Apache2::ASP::Test::MockRequest
+Deleting Apache2::ASP::Base
+Deleting Apache2::ASP::PageHandler
+Deleting MOBY::Client::Exception::MobyException
+Deleting MOBY::Async::Service
+Deleting Bio::Das::Lite::UserAgent::proxy
+Deleting Net::BitTorrent::Session::Peer
+Deleting Nagios::Plugin::Config
+Deleting Apache2::ASP::GlobalConfig
+Deleting MOBY::Client::SimpleInput
+Deleting MOBY::RDF::Predicates::OWL
+Deleting MOBY::RDF::Predicates::DC_PROTEGE
+Deleting MOBY::Async::WSRF
+Deleting MOBY::Client::Registration
+Deleting Badger::Class::Aliases
+Deleting Net::BitTorrent::Session::Tracker
+Deleting MOBY::RDF::Predicates::FETA
+Deleting MOBY::Client::OntologyServer
+Deleting MOBY::RDF::Predicates::OMG_LSID
+Deleting Apache2::ASP::Tag
+Deleting Apache2::ASP::Config::Node
+Deleting MOBY::Client::Service
+Deleting Apache2::ASP::CGI
+Deleting MOBY::RDF::Predicates::MOBY_PREDICATES
+Deleting MOBY::RDF::Parsers::ServiceTypeParser
+Deleting Apache2::ASP::DOM::Node
+Deleting MOBY::Client::SimpleArticle
+Deleting MOBY::MobyXMLConstants
+Deleting MOBY::Async::LSAE
+Deleting Net::BitTorrent::Session::File
+Deleting Net::BitTorrent::Session::Piece::Block
+Deleting Net::BitTorrent::Session
+Deleting Apache2::ASP::ApacheRequest
+Deleting Apache2::ASP::Handler
+Deleting Net::BitTorrent::Session::Peer::Request
+Deleting MOBY::RDF::Predicates::RDF
+Deleting Apache2::ASP::Parser
+Deleting MOBY::RDF::Utils
+Deleting MOBY::CrossReference

@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__Text
+  _boot_Tk__Text = boot_Tk__Text
+  

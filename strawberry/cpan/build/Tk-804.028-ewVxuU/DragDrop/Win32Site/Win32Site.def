@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__DragDrop__Win32Site
+  _boot_Tk__DragDrop__Win32Site = boot_Tk__DragDrop__Win32Site
+  

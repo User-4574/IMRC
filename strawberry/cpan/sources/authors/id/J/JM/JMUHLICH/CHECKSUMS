@@ -1,0 +1,95 @@
+0&&<<''; # this PGP-signed message is also valid perl
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+# CHECKSUMS file written on Sat Nov 15 02:24:08 2008 GMT by CPAN::Checksums (v2.00)
+$cksum = {
+  'Games-Die-0.01.tar.gz' => {
+    'md5' => 'e8f529b467849ba7271febba7af372fc',
+    'md5-ungz' => '530039a182429a3a6bde9490dc691a3b',
+    'mtime' => '2002-01-24',
+    'sha256' => '57960ad77726383dd5cbabad3bf8bc212eb1dc11ba4acef3b5c7209a4cfe5f48',
+    'sha256-ungz' => 'cc4e3c6ce65230b390687ba2596e093e539094fef08d69e78269f84777ffc1b8',
+    'size' => '1817'
+  },
+  'Games-Die-0.03.tar.gz' => {
+    'md5' => '392b630da43430cc762a12e2802581da',
+    'md5-ungz' => 'd979bb2c5a2a78f8ca812e8c7bac286b',
+    'mtime' => '2003-03-12',
+    'sha256' => '93cd61bf0b84e35d0d68cd7e616fe5ae527714598827f35cfcc2a708c7d1df48',
+    'sha256-ungz' => '1fe7df7570e00e709006aea6b0c9c19737440dd5aa855b57472a8a4039f6ea9a',
+    'size' => '3171'
+  },
+  'Games-Die-0.04.tar.gz' => {
+    'md5' => 'e23910fee52480218d1658c55bd4e60f',
+    'md5-ungz' => 'c041245c0262c50b2568771ebf51568c',
+    'mtime' => '2003-09-17',
+    'sha256' => 'df5e10640005bf1b9eb7596a6bf2e611abecb71de7dd4f59a7a9c6eadfa80bb0',
+    'sha256-ungz' => '880f189dc74709b1240de2184ad9a7b3bd917182e3f9773e0234b6eb14654296',
+    'size' => '3472'
+  },
+  'Games-Die-0.05.tar.gz' => {
+    'md5' => '1c5c0bb83d74eec9e022d5220fdad0df',
+    'md5-ungz' => '2055cd59a02ba53b44f96c2ce1b1bd71',
+    'mtime' => '2003-09-28',
+    'sha256' => 'ee592e16bd2f358b80cfb65dd35f6694a48c4b542642c8c96819b6ee76fcd8a6',
+    'sha256-ungz' => '394fcf4d66f77d461673a2ed4cf415ca7ffc82c72d86d532dffc3174a8bf9de1',
+    'size' => '4394'
+  },
+  'Net-ICQ-0.13.tar.gz' => {
+    'md5' => '656a27dfe54d957ff9e57ecbd44cd2a9',
+    'md5-ungz' => '51db2037fd98ca22dbbba1bf9ffb41a1',
+    'mtime' => '2001-01-30',
+    'sha256' => '406bf84f962ff0277d7017c6c7023d4d67f64002c224ca9b620ff2c6237b99be',
+    'sha256-ungz' => 'd5bbfc96a65455f5d76ca7dcb86775299a067ed34fb565f175e27395efa507e8',
+    'size' => '13677'
+  },
+  'Net-ICQ-0.14.tar.gz' => {
+    'md5' => 'd6e05e327512ea33bf25cdccdfa1891e',
+    'md5-ungz' => 'af73bd9a8c962de8e52b068e00c25693',
+    'mtime' => '2000-11-27',
+    'sha256' => 'b91f99c6300823a05d0b9e17cd7f01029f3daa1f008b7ef557139363d9241b7a',
+    'sha256-ungz' => '4202b6d2544b36498b846332553beb0b69c2f1a74122f7d0cc7013889ffabc88',
+    'size' => '14745'
+  },
+  'Net-ICQ-0.15.tar.gz' => {
+    'md5' => 'a71201b201819fc19fc2a0fd98c58c87',
+    'md5-ungz' => '859c51e84b1576e4ea01d3ae57cbcaaf',
+    'mtime' => '2001-02-01',
+    'sha256' => '99797c22e0c277f4514443e1c14d2cf51b42861c0663aa32dd8f7c82392312d7',
+    'sha256-ungz' => '87143f016564ec116750a2ff939548828b7487ff55806eed4955088e00f7cf37',
+    'size' => '16495'
+  },
+  'Net-ICQ-0.16.tar.gz' => {
+    'md5' => '0fd10c3daa3aa6e406f0bee4ba22a994',
+    'md5-ungz' => 'b95493f02868b3b9ad03730933b372d5',
+    'mtime' => '2001-03-02',
+    'sha256' => 'e2e68f953804e4f7175febe19d661b5996ad9bd213e1c27776665635adb5e9ba',
+    'sha256-ungz' => '5f8c2ed2735b3952fc6089131bf48089ad0149654f91ad612237adfd3a44a02a',
+    'size' => '19049'
+  },
+  'Net-IRC-0.74.tar.gz' => {
+    'md5' => '641f5afb334582e9812798de83808329',
+    'md5-ungz' => '204134d228f3ea2f039aed9569cc51b9',
+    'mtime' => '2003-04-17',
+    'sha256' => '44ce75e9f04812765b2acdd51c98e1305c8c7ed1014e5538764cfed760acbb68',
+    'sha256-ungz' => '38649392cec98de3352fb3e19bca768dfe9fd51dfa967bc848eb575379f0a9c3',
+    'size' => '58240'
+  },
+  'Net-IRC-0.75.tar.gz' => {
+    'md5' => '57587a48ddece7a995c6b138003ee798',
+    'md5-ungz' => 'b77999581f03b7745f5370383460dad2',
+    'mtime' => '2004-04-30',
+    'sha256' => 'b4a8fbbb2891f48ce8af4f00d22704abe6a889066fb7e2f332d2d26a66c4465b',
+    'sha256-ungz' => '7071a457ced5e4edc305ffb3d9d8603a5bdabfd65db37250d8d4032272aa0cb7',
+    'size' => '48651'
+  }
+};
+__END__
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.6 (GNU/Linux)
+
+iD8DBQFJHjLIMo2oZ0UPiewRAsotAJ9l/2Rw2E3CSOMwsn7XvC8ZhLaZOwCfZeHX
+dqV2OF2oyOXp1E9bmrnOZgA=
+=gaEx
+-----END PGP SIGNATURE-----

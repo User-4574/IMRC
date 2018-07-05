@@ -1,0 +1,60 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: J/JE/JENDA/Win32-FileOp-0.14.1.tar.gz
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Win32::FileOp: 1
+  ID: J/JE/JENDA/Win32-FileOp-0.14.1.tar.gz
+  RO:
+    CPAN_USERID: JENDA
+    CPAN_VERSION: 0.14.1
+    DESCRIPTION: 'file operations + fancy dialogs, INI files'
+  archived: tar
+  build_dir: C:\strawberry\cpan\build\Win32-FileOp-0.14.1-qk64BC
+  incommandcolor: 1
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616180
+  localfile: C:\strawberry\cpan\sources\authors\id\J\JE\JENDA\Win32-FileOp-0.14.1.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616163
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616179
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires: ~
+    requires:
+      Data::Lazy: 0.5
+      Win32::API: 0
+      Win32::AbsPath: 1.0
+  prereq_pm_detected: 1
+  reqtype: c
+  sponsored_mods:
+    Data::Lazy: 1
+    Win32::AbsPath: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616143
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616144
+perl:
+  $^X: C:\strawberry\perl\bin\perl.exe
+  mtime_$^X: 1224452430
+  mtime_dll: 0
+  sitearchexp: C:\strawberry\perl\site\lib
+time: 1228616180

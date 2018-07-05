@@ -1,0 +1,4 @@
+EXPORTS
+  boot_Tk__Compound
+  _boot_Tk__Compound = boot_Tk__Compound
+  

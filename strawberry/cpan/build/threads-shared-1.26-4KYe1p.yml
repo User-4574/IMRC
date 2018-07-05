@@ -1,0 +1,65 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: threads::shared
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    threads::shared: 1
+  ID: J/JD/JDHEDDEN/threads-shared-1.26.tar.gz
+  RO:
+    CPAN_USERID: JDHEDDEN
+    CPAN_VERSION: 1.26
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\strawberry\cpan\build\threads-shared-1.26-4KYe1p
+  incommandcolor: 1
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 3
+    FAILED: ''
+    TEXT: YES
+    TIME: 1226901297
+  localfile: C:\strawberry\cpan\sources\authors\id\J\JD\JDHEDDEN\threads-shared-1.26.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 3
+    FAILED: ''
+    TEXT: YES
+    TIME: 1226901266
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 3
+    FAILED: ''
+    TEXT: YES
+    TIME: 1226901296
+  negative_prefs_cache: 3
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires: ~
+    requires:
+      Carp: 0
+      Config: 0
+      ExtUtils::testlib: 0
+      Scalar::Util: 0
+      Test: 0
+      Test::More: 0
+      XSLoader: 0
+      strict: 0
+      warnings: 0
+  prereq_pm_detected: 1
+  reqtype: c
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 3
+    FAILED: ''
+    TEXT: YES
+    TIME: 1226901258
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 3
+    FAILED: ''
+    TEXT: YES
+    TIME: 1226901259
+  yaml_content: ~
+perl:
+  $^X: C:\strawberry\perl\bin\perl.exe
+  mtime_$^X: 1224452430
+  mtime_dll: 0
+  sitearchexp: C:\strawberry\perl\site\lib
+time: 1226901297

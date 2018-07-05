@@ -1,0 +1,52 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Win32::AbsPath
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Win32::AbsPath: 1
+  ID: J/JE/JENDA/Win32-AbsPath-1.0.tar.gz
+  RO:
+    CPAN_USERID: JENDA
+    CPAN_VERSION: 1.0
+    DESCRIPTION: 'relative paths to absolute, understands UNCs'
+  archived: tar
+  build_dir: C:\strawberry\cpan\build\Win32-AbsPath-1.0-xsxF5p
+  incommandcolor: 2
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616160
+  localfile: C:\strawberry\cpan\sources\authors\id\J\JE\JENDA\Win32-AbsPath-1.0.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616158
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616158
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm_detected: 0
+  reqtype: r
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616154
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616155
+perl:
+  $^X: C:\strawberry\perl\bin\perl.exe
+  mtime_$^X: 1224452430
+  mtime_dll: 0
+  sitearchexp: C:\strawberry\perl\site\lib
+time: 1228616160

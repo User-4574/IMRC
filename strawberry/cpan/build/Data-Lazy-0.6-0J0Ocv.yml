@@ -1,0 +1,53 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Data::Lazy
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Data::Lazy: 1
+  ID: S/SA/SAMV/Data-Lazy-0.6.tar.gz
+  RO:
+    CPAN_USERID: SAMV
+    CPAN_VERSION: 0.6
+    DESCRIPTION: 'provides "lazy" scalars, arrays and hashes'
+  archived: tar
+  build_dir: C:\strawberry\cpan\build\Data-Lazy-0.6-0J0Ocv
+  incommandcolor: 2
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616153
+  localfile: C:\strawberry\cpan\sources\authors\id\S\SA\SAMV\Data-Lazy-0.6.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616151
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616152
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm_detected: 0
+  reqtype: r
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616146
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1228616147
+  yaml_content: ~
+perl:
+  $^X: C:\strawberry\perl\bin\perl.exe
+  mtime_$^X: 1224452430
+  mtime_dll: 0
+  sitearchexp: C:\strawberry\perl\site\lib
+time: 1228616153
